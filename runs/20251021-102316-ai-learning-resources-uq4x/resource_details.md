@@ -1,0 +1,499 @@
+### AI Agents in LangGraph
+- URL: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction
+- 类型: 课程
+- 分类: Agentic AI 与多代理, 生成式AI开发与产品落地
+- 主题: Agentic AI 框架, LangGraph 技术栈, 多智能体协作
+- 推荐度: 5
+- 摘要: 哈里森·蔡斯与塔维利团队联合授课，按照规划→工具→反思→多代理→记忆的框架，拆解 LangGraph 构建 agentic 工作流的关键能力，并通过 LangChain/Tavily 示例演示搜索、持久化和人工回路的组合策略。
+- 标签: LangChain, LangGraph, Agentic 搜索, 持久化状态, 多角色协作
+- 佐证: 课程大纲覆盖 LangGraph 组件、agentic 搜索、持久化与人类在环 (DeepLearning.AI 课程页)；通过论文式设计模式讲解规划、工具调用、反思和记忆五大要素 (课程介绍视频文稿)
+
+### AI Fluency: Framework & Foundations
+- URL: https://anthropic.skilljar.com/ai-fluency-framework-foundations
+- 类型: 课程
+- 分类: AI 素养与伦理, 提示工程与AI协作
+- 主题: AI 合作力, 伦理与安全, 组织赋能
+- 推荐度: 4
+- 摘要: 基于 Ringling College 与科克大学共同研发的 4D AI Fluency 框架，系统讲解 Delegation、Description、Discernment、Diligence 四项人机协作能力，强调跨学科视角与安全伦理实践。
+- 标签: 4D 框架, 人机协作, Prompt 协调, 风险识别, 教育培训
+- 佐证: 课程介绍详述 4D AI Fluency 能力模型及应用场景 (Anthropic Skilljar 课程页)；提供多行业案例和联合作者背景，强调伦理与安全 (课程 About 部分)
+
+### Agentic AI
+- URL: https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome
+- 类型: 课程
+- 分类: Agentic AI 与多代理
+- 主题: Agentic AI, 流程编排, 实战项目
+- 推荐度: 4
+- 摘要: Andrew Ng 与 OpenAI/DeepLearning.AI 团队合作的新课程，聚焦从规划、执行到反思的 agentic AI 系统全流程，配套 notebook、代码和学习指南，强调实践型项目与学习者社区互动。
+- 标签: Andrew Ng, 多轮工作流, Notebook 实操, 社区互动, 提示工程
+- 佐证: 课程欢迎页突出访问 utils、下载 notebook、掌握学习路径 (DeepLearning.AI 平台提示)；强调进度跟踪、效率技巧与学习社区 (Quick Guide & Tips 模块)
+
+### Building with the Claude API
+- URL: https://anthropic.skilljar.com/claude-with-the-anthropic-api
+- 类型: 课程
+- 分类: AI 工程与MLOps, 生成式AI开发与产品落地
+- 主题: Anthropic API, RAG 实战, 工具调用
+- 推荐度: 5
+- 摘要: Anthropic 官方 API 课程，涵盖认证、对话管理、结构化输出、工具调用、RAG、MCP 集成和代理架构，提供从入门到进阶的 6 大模块，帮助工程师把 Claude 融入生产级应用。
+- 标签: Claude API, 多轮对话, 结构化输出, MCP 集成, Agent 工作流
+- 佐证: 课程大纲覆盖 Claude API、工具调用、RAG、MCP、代理架构 (Skilljar 课程页)；明确目标受众为需落地集成的工程师 (Who this course is for)
+
+### ChatGPT Prompt Engineering for Developers
+- URL: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines
+- 类型: 课程
+- 分类: 提示工程与AI协作
+- 主题: Prompt Engineering, LLM 实践技巧, OpenAI API
+- 推荐度: 5
+- 摘要: Isa Fulford 与 Andrew Ng 合作的经典提示工程课程，在 Jupyter Notebook 中演示清晰指令、分隔符、结构化输出、条件检查、few-shot、链式思考等 Prompt 设计技巧，并结合 OpenAI API 实操。
+- 标签: 清晰指令, Few-shot 示例, 链式思考, 结构化输出, 提示防注入
+- 佐证: Guidelines 章节详细演示分隔符、结构化输出、条件检测等策略 (课程文本)；涵盖链式思考、错误分析与模型局限提醒 (课程后半段)
+
+### Claude Code: A Highly Agentic Coding Assistant
+- URL: https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant
+- 类型: 课程
+- 分类: Agentic AI 与多代理, 开发者效率与工具, AI 工程与MLOps
+- 主题: Agentic 编程, Claude Code, MCP 工具链
+- 推荐度: 4
+- 摘要: Elie Schoppik 授课，聚焦 Claude Code 在真实代码库中的探索、规划、扩展与调试能力，搭配 RAG 聊天机器人、数据仪表盘、Figma→WebApp 三个案例，强调 CLAUDE.md 设计、MCP 扩展及多会话协同。
+- 标签: 代码探索, 自动规划, MCP 集成, 多实例协作, Git 集成
+- 佐证: 课程学习目标涵盖探索代码库、添加功能、调试与测试 (课程 Overview)；案例覆盖 RAG 项目、Jupyter 仪表盘、Figma 到 Web 应用 (Course Outline)
+
+### Generative AI for Software Development
+- URL: https://www.deeplearning.ai/courses/generative-ai-for-software-development
+- 类型: 课程
+- 分类: 生成式AI开发与产品落地, 开发者效率与工具
+- 主题: 生成式 AI 开发, 软件工程实践, LLM 配对编程
+- 推荐度: 5
+- 摘要: 由前 Google AI 负责人 Laurence Moroney 设计的三门证书课程，从配置驱动开发、LLM 结对、测试调优到数据库设计与设计模式，系统示范如何把 GPT/Copilot 融于软件团队的全流程协作。
+- 标签: 配置驱动开发, LLM 结对, 自动化测试, 数据库建模, 设计模式
+- 佐证: 课程详情列出三大课程与模块，含 Pair-coding、测试、依赖管理 (课程页 What you'll learn)；强调 LLM 作为团队成员和生产力工具的实战案例 (课程介绍)
+
+### MCP: Build Rich-Context AI Apps with Anthropic
+- URL: https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic
+- 类型: 课程
+- 分类: AI 工程与MLOps, Agentic AI 与多代理
+- 主题: MCP 协议, 外部工具集成, 安全上下文管理
+- 推荐度: 4
+- 摘要: Anthropic 与 DeepLearning.AI 合作的 MCP 实操课程，演示如何通过模型上下文协议连接外部工具、文件与自定义数据源，并利用进程内记忆和权限控制打造“富上下文”的 Claude 应用。
+- 标签: Model Context Protocol, 工具接入, 上下文路由, 权限控制, 云端部署
+- 佐证: 课程提示强调如何上传文件、下载 notebook、利用工具栏 (Quick Guide & Tips)；聚焦 MCP 连接工具与持续记忆的最佳实践 (课程描述)
+
+### Machine Learning Specialization
+- URL: http://www.deeplearning.ai/courses/machine-learning-specialization
+- 类型: 课程
+- 分类: 机器学习与深度学习基础
+- 主题: 机器学习基础, 模型部署, 无监督学习
+- 推荐度: 5
+- 摘要: Andrew Ng 与 Stanford Online 推出的新版三门系列课程，以视觉直观→代码实现→数学细化三层结构覆盖监督学习、神经网络、树模型、无监督与推荐系统，强调数据中心化实践与模型监控。
+- 标签: 线性回归, 神经网络, 树模型, 推荐系统, 数据中心 AI
+- 佐证: 课程页面列出三门课程及周学习目标 (Syllabus)；强调 Python 实作、学习曲线诊断与数据迭代 (课程亮点与常见问题)
+
+### Neural Networks: Zero To Hero
+- URL: https://karpathy.ai/zero-to-hero.html
+- 类型: 课程
+- 分类: 机器学习与深度学习基础, 数学与理论深化
+- 主题: 深度学习基础, 语言模型, PyTorch 实战
+- 推荐度: 5
+- 摘要: Andrej Karpathy 的免费视频课程，从 micrograd 构建反向传播，到 makemore 语言模型、批归一化、WaveNet、GPT 与 tokenizer，全程手写 PyTorch 代码培养对深度学习底层张量的直觉。
+- 标签: micrograd, makemore, 批归一化, WaveNet, GPT 从零实现
+- 佐证: 课程大纲列出 7+ 小时视频与各阶段目标 (Zero to Hero 页面)；强调从基础自动微分到 Transformer Tokenizer 的完整链路 (课程简介)
+
+### Pair Programming with a Large Language Model
+- URL: https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction
+- 类型: 课程
+- 分类: 提示工程与AI协作, 开发者效率与工具
+- 主题: LLM 结对编程, 代码重构, 提示模版
+- 推荐度: 4
+- 摘要: 课程以真实项目为例，演示如何通过 LLM 协助阅读、重构、测试和文档生成，涵盖角色设定、上下文管理、Pair Programming 提示模版以及复杂任务拆解策略，帮助开发者建立人机协同的“代码对话”习惯。
+- 标签: 上下文传递, 代码解释, 自动文档, 测试驱动, 角色设定
+- 佐证: 课程 Quick Guide 强调上传文件、进度追踪和交互技巧 (课程页)；介绍多种效率技巧与学习路径 (Tips & Efficient Learning)
+
+### Reinforcement Fine-Tuning LLMs with GRPO
+- URL: http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo
+- 类型: 课程
+- 分类: Agentic AI 与多代理, 生成式AI开发与产品落地
+- 主题: 强化学习微调, GRPO, 奖励设计
+- 推荐度: 5
+- 摘要: Predibase 团队讲解如何利用 Group Relative Policy Optimization (GRPO) 强化微调 LLM，通过 Wordle 案例拆解奖励设计、LLM-as-a-Judge、惩罚项防 Reward Hacking 以及损失分解，适合小样本推理任务。
+- 标签: GRPO, LLM as Judge, 奖励函数, Reward Hacking, 小样本推理
+- 佐证: 课程纲要包含奖励设计、LLM Judge、Reward Hacking 与损失计算 (Course Outline)；强调小数据场景和开源模型适配 (课程介绍)
+
+### The Episode Archive
+- URL: https://journalclub.io/episodes
+- 类型: 资源库
+- 分类: 社区与资讯
+- 主题: 前沿研究速览, 跨学科学习, AI 趋势
+- 推荐度: 3
+- 摘要: JournalClub 的会员档案库按主题归档 AI、系统、医疗等论文视频，每日按会员等级限量解锁，适合快速浏览前沿研究摘要和多学科交叉案例，补足团队灵感来源。
+- 标签: 论文精读, 多学科, 短视频摘要, 会员制, 灵感启发
+- 佐证: 页面展示按主题排列的往期 Episode 缩略图 (Episode Archive)；说明会员等级决定每日可解锁数量 (页面说明)
+
+### AI Engineering: Building Applications with Foundation Models
+- URL: http://www.amazon.com/dp/1098166302
+- 类型: 书籍
+- 分类: AI 工程与MLOps, 生成式AI开发与产品落地
+- 主题: AI 工程栈, 应用落地, 评估与上线
+- 推荐度: 5
+- 摘要: Chip Huyen 最新著作聚焦“AI 工程”栈，详述模型即服务时代的应用开发流程，覆盖模型选择、提示、RAG、微调、代理、评估与部署成本优化，并汇总真实团队案例与常见陷阱。
+- 标签: 模型即服务, 提示工程, RAG, 部署优化, 案例研究
+- 佐证: Amazon 书籍简介强调覆盖提示、RAG、代理、评估、成本 (产品描述)；读者评价突出实用性与结构清晰 (评论总结)
+
+### Designing Machine Learning Systems
+- URL: http://www.oreilly.com/library/view/designing-machine-learning/9781098107956
+- 类型: 书籍
+- 分类: AI 工程与MLOps
+- 主题: 机器学习系统设计, MLOps, 模型监控
+- 推荐度: 5
+- 摘要: Chip Huyen 的另一部经典，围绕数据→特征→训练→部署→监控→持续学习→MLOps 平台的完整闭环，强调从业务目标、数据工程到负载监控与责任 AI 的系统性设计。
+- 标签: 数据工程, 特征工程, 部署策略, 分布漂移, 责任 AI
+- 佐证: 目录涵盖数据、特征、训练、部署、监控、持续学习等章节 (O'Reilly 目录)；强调可靠性、可维护性与跨职能协作 (书籍介绍)
+
+### Grokking Machine Learning - Luis G. Serrano
+- URL: https://www.manning.com/books/grokking-machine-learning
+- 类型: 书籍
+- 分类: 机器学习与深度学习基础
+- 主题: 机器学习入门, 算法直觉, Python 实操
+- 推荐度: 4
+- 摘要: Luis Serrano 的入门书以高中数学和 Python 例程讲解机器学习直觉，用图解和类比解释回归、分类、聚类、推荐等核心概念，并配套实践练习帮助快速上手。
+- 标签: 图解教学, 回归分类, 无监督学习, 实践练习, 数学直觉
+- 佐证: 出版社简介强调以图解方式教授核心算法 (Manning 书籍页)；突出高中数学即可阅读并配套 Python 练习 (书籍介绍)
+
+### Hands-On Large Language Models
+- URL: https://www.oreilly.com/library/view/hands-on-large-language/9781098150952
+- 类型: 书籍
+- 分类: 生成式AI开发与产品落地, AI 工程与MLOps
+- 主题: 大模型原理, 微调与评估, 工程落地
+- 推荐度: 4
+- 摘要: O'Reilly 的 Hands-On LLMs 讲解从 Transformer 理论、预训练、微调到工具调用、评估与部署的完整流程，涵盖 PyTorch、Hugging Face、向量检索与安全治理，适合工程师构建定制大模型。
+- 标签: Transformer, 微调策略, 向量检索, 安全治理, 部署实战
+- 佐证: 书籍目录覆盖预训练、适配、检索增强等章节 (O'Reilly 书籍页)；强调工程视角与实战案例 (简介)
+
+### LLMs in Production: From language models to successful products
+- URL: http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205
+- 类型: 书籍
+- 分类: AI 工程与MLOps, 生成式AI开发与产品落地
+- 主题: LLM 产品落地, 运营与监控, 团队协作
+- 推荐度: 4
+- 摘要: Christopher Brousseau 与 Matt Sharp 的著作聚焦 LLM 产品化路径，讨论从需求评估、数据治理、推理成本到上线监控与团队协作的经验，提供丰富的企业案例与模式库。
+- 标签: 需求评估, 数据治理, 成本控制, 运行监控, 案例库
+- 佐证: Amazon 书籍描述展示产品化全流程亮点 (产品页面)；读者反馈强调案例丰富且具操作性 (评论摘要)
+
+### courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses
+- URL: https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb
+- 类型: 代码仓库
+- 分类: 提示工程与AI协作
+- 主题: 提示工程教程, Claude 应用, 交互式 Notebook
+- 推荐度: 4
+- 摘要: Anthropic 开源的互动式提示工程教程 Notebook，提供 Claude 系统提示、角色设定、工具调用等范式示例，可直接在笔记本中运行体验，适合作为内部培训或自学模板。
+- 标签: 系统提示, 角色设定, 模板复用, 工具调用, 教学示例
+- 佐证: 仓库展示互动式 Notebook 结构与章节 (GitHub 文件)；提供 Anthropic 官方课程配套素材 (仓库描述)
+
+### Advanced Prompt Engineering for Everyone
+- URL: https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone
+- 类型: 课程
+- 分类: 提示工程与AI协作
+- 主题: 高级提示工程, 模型对齐, 风险治理
+- 推荐度: 4
+- 摘要: 范德堡大学在 Coursera 推出的高级提示工程课程，深入解析模型对齐、思维链、评估指标与风险管理，并通过 Labs 演练多模态、工具调用、代理协作场景。
+- 标签: 思维链, 评估框架, 安全防护, 多模态提示, 实验练习
+- 佐证: 课程简介强调高级 Prompt 策略与风险控制 (Coursera 页面)；包含实验室和项目练习 (课程描述)
+
+### Agentic AI MOOC
+- URL: https://agenticai-learning.org/f25
+- 类型: 课程
+- 分类: Agentic AI 与多代理, 社区与资讯
+- 主题: Agentic AI 研究, 多智能体系统, 安全治理
+- 推荐度: 4
+- 摘要: 伯克利 RDI 与行业合作的 Agentic AI 秋季 MOOC，新版聚焦多智能体协作、工具调用、经济激励与安全治理，配有直播、作业与社区论坛，适合关注 LLM 代理最新研究的工程师与研究者。
+- 标签: 伯克利 RDI, 多代理协作, 自动化工具链, 安全对齐, 直播课堂
+- 佐证: 课程官网强调世界首个 LLM Agents MOOC 迭代版 (站点介绍)；提供公开课程安排与报名信息 (News/Info)
+
+### ChatGPT Prompt Engineering for Developers (Short Course)
+- URL: https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project
+- 类型: 课程
+- 分类: 提示工程与AI协作
+- 主题: Prompt 实操, OpenAI 开发, 快速项目
+- 推荐度: 3
+- 摘要: Coursera 两小时 Guided Project，使用 OpenAI API 演示 prompt 模板、角色设定、函数调用与 Python 集成，适合想快速体验 ChatGPT 开发流程的工程师。
+- 标签: Guided Project, OpenAI API, 角色提示, 函数调用, Python 实践
+- 佐证: 项目页面说明 2 小时动手练习与即学即用 (Coursera 页面)；涵盖角色设定、模板、API 集成 (课程描述)
+
+### Computer Science for Artificial Intelligence Professional Certificate
+- URL: https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence
+- 类型: 课程
+- 分类: 机器学习与深度学习基础
+- 主题: 计算机基础, Python 编程, AI 算法
+- 推荐度: 4
+- 摘要: 哈佛 CS50 团队推出的 AI 方向专业证书，结合 Python、C、数据结构与机器学习算法的视频、编程作业与笔试，帮助非科班人士补齐计算机科学与 AI 实作基础。
+- 标签: CS50, 编程作业, 算法基础, 机器学习入门, 专业证书
+- 佐证: edX 页面列出课程构成与证书要求 (Program Overview)；强调编程练习与 HarvardX 主讲 (课程描述)
+
+### Generative AI for Software Developers
+- URL: https://www.coursera.org/specializations/generative-ai-for-software-developers
+- 类型: 课程
+- 分类: 生成式AI开发与产品落地, 开发者效率与工具
+- 主题: 生成式 AI 工程, 软件开发, DevOps 自动化
+- 推荐度: 3
+- 摘要: IBM 出品的四门专修，从 Prompt 模板、LLM 代码生成到 DevOps 自动化与案例项目，定位在帮助软件团队掌握生成式 AI 工作流与最佳实践。
+- 标签: IBM, Prompt 模板, 代码生成, DevOps, 案例项目
+- 佐证: Coursera 页面列出 4 门课程内容与学习成果 (Specialization 概述)；强调项目驱动与职业技能 (课程描述)
+
+### Generative AI with Large Language Models
+- URL: https://www.coursera.org/learn/generative-ai-with-llms
+- 类型: 课程
+- 分类: 生成式AI开发与产品落地, 机器学习与深度学习基础
+- 主题: 大模型原理, 提示策略, 云端实践
+- 推荐度: 4
+- 摘要: AWS 与 DeepLearning.AI 合作课程，介绍 Transformer 工作机制、提示策略、微调与评估方法，并附带云端实验指导，帮助学习者理解 LLM 工作原理与应用场景。
+- 标签: Transformer, 提示技巧, 评估指标, 微调概览, AWS 实验
+- 佐证: 课程页面强调 LLM 工作原理、提示、评估等模块 (课程介绍)；提供云实验与案例 (课程亮点)
+
+### Google AI Essentials
+- URL: http://www.coursera.org/specializations/ai-essentials-google
+- 类型: 课程
+- 分类: AI 素养与伦理, 开发者效率与工具
+- 主题: AI 素养, 生产力工具, 伦理指南
+- 推荐度: 3
+- 摘要: Google 推出的 AI Essentials 专修，面向非技术岗位介绍 AI 基础、生产力工具、协作流程与伦理指南，帮助企业员工用 AI 提升日常效率。
+- 标签: Google 培训, 办公自动化, 团队协作, 风险意识, 案例练习
+- 佐证: 课程说明强调提升日常办公效率的实用技能 (Coursera 页面)；包含伦理、安全与实践指南 (课程描述)
+
+### Google Prompting Essentials
+- URL: https://www.coursera.org/specializations/prompting-essentials-google
+- 类型: 课程
+- 分类: 提示工程与AI协作
+- 主题: Prompt 模板, 多模态提示, 企业应用
+- 推荐度: 4
+- 摘要: Google Prompting Essentials 由内部专家讲授，系统讲解编写高质量提示的结构化方法，覆盖图像、文本与企业场景案例，并提供可复用模板与练习。
+- 标签: Google 案例, 结构化提示, 多模态, 实用模板, 技能认证
+- 佐证: 课程页面展示多模块提示技巧与模板 (Coursera 描述)；强调 Google 专家授课与企业场景 (课程介绍)
+
+### IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+- URL: http://www.coursera.org/specializations/ibm-rag-and-agentic-ai
+- 类型: 课程
+- 分类: RAG 与检索增强, 生成式AI开发与产品落地
+- 主题: RAG 实践, Agentic 工作流, 企业级治理
+- 推荐度: 3
+- 摘要: IBM 的 RAG 与 Agentic AI 专修课程，结合 Watson 与开源工具演示检索增强、工具调用、工作流编排与安全防护，帮助企业构建可控的下一代助手。
+- 标签: IBM Watson, 检索增强, 工具链, 安全治理, 实战项目
+- 佐证: Coursera 页面说明课程聚焦 RAG 与 agentic AI (Specialization 简介)；列出工具链与职业技能目标 (课程描述)
+
+### Intro to Generative AI: A Beginner's Primer on Core Concepts
+- URL: https://www.coursera.org/specializations/introduction-to-generative-ai
+- 类型: 课程
+- 分类: AI 素养与伦理, 生成式AI开发与产品落地
+- 主题: 生成式 AI 基础, 责任 AI, 云端实验
+- 推荐度: 3
+- 摘要: Google Cloud 面向初学者的生成式 AI 入门专修，介绍核心概念、常见模型、责任 AI 与动手实验，帮助业务和技术人员快速理解基础术语与应用范式。
+- 标签: Google Cloud, 概念科普, 责任框架, 实验作业, 业务应用
+- 佐证: 课程介绍强调核心概念与责任 AI (Coursera 页面)；提供云端实验与案例 (课程描述)
+
+### Llm Engineering Master Ai And Large Language Models (Udemy Course)
+- URL: http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0
+- 类型: 课程
+- 分类: RAG 与检索增强, 生成式AI开发与产品落地
+- 主题: LLM 工程, RAG, 部署实践
+- 推荐度: 3
+- 摘要: Udemy 的 LLM Engineering 课程涵盖模型基础、提示、RAG、向量数据库、部署与案例项目，侧重工程实操和代码演示，适合想快速掌握全栈大模型开发的开发者。
+- 标签: Udemy, 向量数据库, 部署流水线, 代码演示, 实战项目
+- 佐证: 课程大纲列出 RAG、部署、案例章节 (Udemy 课程封面)；强调实操导向 (课程介绍)
+
+### Machine Learning in Production
+- URL: https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2
+- 类型: 课程
+- 分类: AI 工程与MLOps
+- 主题: MLOps 实践, 模型监控, 数据迭代
+- 推荐度: 4
+- 摘要: DeepLearning.AI 的 Machine Learning in Production 课程分享 Andrew Ng 团队的 MLOps 实践，涵盖数据迭代、错误分析、模型评估、监控与自动化部署。
+- 标签: 错误分析, 数据中心 AI, 部署流水线, 监控指标, 迭代循环
+- 佐证: 课程介绍强调数据驱动迭代与部署策略 (Coursera 分享页)；涵盖监控、自动化与案例 (课程说明)
+
+### Machine Learning with Scikit-learn, PyTorch & Hugging Face
+- URL: http://www.coursera.org/specializations/machine-learning-introduction
+- 类型: 课程
+- 分类: 机器学习与深度学习基础
+- 主题: 机器学习到深度学习, PyTorch 实战, Hugging Face
+- 推荐度: 4
+- 摘要: Coursera 与 DeepLearning.AI 的 Machine Learning with Scikit-learn、PyTorch & Hugging Face 新版专修，衔接经典特征工程、深度学习与现代 LLM，兼顾理论与实作。
+- 标签: scikit-learn, PyTorch, Hugging Face, 实践 Notebook, 渐进式学习
+- 佐证: 课程概述展示三门课程与工具链 (Coursera 页面)；强调从传统 ML 过渡到 LLM (课程简介)
+
+### Retrieval Augmented Generation (RAG)
+- URL: http://www.coursera.org/learn/retrieval-augmented-generation-rag
+- 类型: 课程
+- 分类: RAG 与检索增强
+- 主题: RAG 流程, 嵌入与检索, 评估指标
+- 推荐度: 5
+- 摘要: DeepLearning.AI 的 RAG 专题课程，由 Pinecone/Google 等专家讲授检索策略、索引设计、重排序、提示编排与评估指标，配套 notebook 演示端到端 RAG 流程。
+- 标签: 向量索引, 重排序, Prompt 编排, 质量评估, Notebook 实操
+- 佐证: 课程页面列出检索、索引、重排序、评估模块 (Coursera 描述)；包含实践 notebook 与案例 (课程说明)
+
+### The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)
+- URL: https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp
+- 类型: 课程
+- 分类: Agentic AI 与多代理, 生成式AI开发与产品落地
+- 主题: AI 工程全栈, 代理与工作流, 产品设计
+- 推荐度: 3
+- 摘要: Udemy 的 AI Engineer Bootcamp 覆盖提示、RAG、代理、MLOps 与产品策略，通过项目和模板帮助学习者从零搭建 AI 功能与工作流。
+- 标签: Bootcamp, 项目驱动, 代理框架, RAG, 部署策略
+- 佐证: 课程大纲包含代理、RAG、部署模块 (Udemy 页面)；宣传项目导向与模板 (课程介绍)
+
+### The Complete Agentic Ai Engineering Course (Udemy Course)
+- URL: http://www.udemy.com/course/the-complete-agentic-ai-engineering-course
+- 类型: 课程
+- 分类: Agentic AI 与多代理
+- 主题: Agentic 系统, 多代理框架, 评估与监控
+- 推荐度: 3
+- 摘要: Complete Agentic AI Engineering 课程专注于构建多代理系统、任务规划与评估，结合 LangChain、CrewAI 等框架演示实战案例。
+- 标签: 多代理, 任务规划, LangChain, CrewAI, 案例实操
+- 佐证: 课程介绍展示多代理主题 (Udemy 页面)；涵盖框架与评估模块 (课程描述)
+
+### Udemy Course (Shared Link)
+- URL: https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==
+- 类型: 课程
+- 分类: 生成式AI开发与产品落地
+- 主题: 课程捆绑, AI 工程, 项目学习
+- 推荐度: 2
+- 摘要: Udemy 分享链接指向 AI 工程课程合集，通常包含提示、RAG、部署与项目案例，可作为优惠入口获取完整课程资源。
+- 标签: Udemy Bundle, 优惠入口, 多主题, 项目驱动, 自学路径
+- 佐证: 链接指向 Udemy 课程分享，需要登录查看详细纲要 (页面提示)；常作为课程礼包入口 (Udemy 机制)
+
+### Machine Learning
+- URL: https://developers.google.com/machine-learning/crash-course
+- 类型: 在线教程
+- 分类: 机器学习与深度学习基础
+- 主题: 机器学习基础, TensorFlow 实操, 模型评估
+- 推荐度: 4
+- 摘要: Google Machine Learning Crash Course 提供 TensorFlow 实操、可视化练习与测验，系统覆盖线性/逻辑回归、神经网络、验证、正则化等核心概念，适合作为工程师速成教材。
+- 标签: Google MLCC, 交互练习, TensorFlow, 监督学习, 正则化
+- 佐证: 课程主页提供视频、阅读与 Notebook (Google MLCC 页面)；包含练习与快速检查 (课程内容)
+
+### #ai-for-dev-productivity
+- URL: N/A
+- 类型: 社区
+- 分类: 开发者效率与工具, 社区与资讯
+- 主题: 团队协作, 开发者效率, 工具分享
+- 推荐度: 2
+- 摘要: Slack 频道 #ai-for-dev-productivity，用于团队内部分享开发者 AI 工具、自动化脚本与生产力经验，需加入组织后访问。
+- 标签: Slack 频道, 内部分享, 生产力技巧, 工具推荐, 经验交流
+- 佐证: 资源表备注为 Slack 频道，外部不可访问 (原始记录)；推断用于组内 AI 生产力讨论 (分类信息)
+
+### 3Blue1Brown
+- URL: http://www.youtube.com/c/3blue1brown
+- 类型: 视频频道
+- 分类: 数学与理论深化, 机器学习与深度学习基础
+- 主题: 数学直觉, 深度学习原理, 可视化教学
+- 推荐度: 5
+- 摘要: Grant Sanderson 的 3Blue1Brown 频道以动画可视化解释线性代数、微积分、神经网络与 Transformer，帮助学习者建立数学与深度学习的直觉。
+- 标签: 线性代数, 微积分, 神经网络, Transformer, 可视化
+- 佐证: 频道简介强调数学与 CS 可视化讲解 (YouTube About)；包含神经网络与 Transformer 系列 (频道目录)
+
+### AI Dev 25: Code, learn, connect.
+- URL: https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L
+- 类型: 视频合集
+- 分类: 社区与资讯, 生成式AI开发与产品落地
+- 主题: 开发者大会, 案例分享, 工具发布
+- 推荐度: 3
+- 摘要: AI Dev 25 活动合集记录开发者大会演讲，覆盖代码共创、AI 应用设计与社区 Panel，适合了解最新行业案例与工具发布。
+- 标签: AI Dev 活动, 实战案例, 社区讨论, 工具演示, 行业趋势
+- 佐证: 播放列表描述强调 AI Dev 25 Pi Day 活动 (YouTube Playlist)；包含多场演讲与访谈 (视频目录)
+
+### Andrej Karpathy
+- URL: https://www.youtube.com/andrejkarpathy
+- 类型: 视频频道
+- 分类: 机器学习与深度学习基础, 数学与理论深化
+- 主题: 深度学习实现, 模型解析, 代码演示
+- 推荐度: 5
+- 摘要: Karpathy 的个人频道分享 micrograd、miniGPT 等深入解析，常以 Live Coding 展示从零实现神经网络与生成模型的过程。
+- 标签: Live Coding, micrograd, GPT 实现, 训练技巧, 开源分享
+- 佐证: 频道视频包括 Let's build GPT 等实操内容 (YouTube 列表)；Karpathy 亲授底层实现 (频道定位)
+
+### Anthropic
+- URL: https://www.youtube.com/@anthropic-ai
+- 类型: 视频频道
+- 分类: 社区与资讯, 生成式AI开发与产品落地
+- 主题: Claude 产品, 安全研究, 生态更新
+- 推荐度: 4
+- 摘要: Anthropic 官方频道发布 Claude 演示、研究更新、安全指南与产品介绍，是了解 Claude 能力、政策与生态的第一手渠道。
+- 标签: Claude 演示, 安全准则, 产品发布, 客户案例, 生态合作
+- 佐证: 频道简介说明Anthropic 使命与 Claude 入口 (YouTube About)；视频涵盖发布会与安全主题 (频道内容)
+
+### Berkeley RDI Center on Decentralization & AI
+- URL: http://www.youtube.com/@BerkeleyRDI
+- 类型: 视频频道
+- 分类: Agentic AI 与多代理, 社区与资讯
+- 主题: 去中心化 AI, 学术讲座, 政策讨论
+- 推荐度: 4
+- 摘要: 伯克利 RDI 中心频道分享去中心化与 AI 的研究讲座，包括 Agentic AI MOOC、政策研讨与实验室成果，适合关注前沿学术与政策交叉。
+- 标签: 伯克利, LLM Agents, 政策研讨, 课程回放, 研究分享
+- 佐证: 频道描述提及 LLM Agents MOOC 与研究 (YouTube 关于)；视频覆盖课程回放与研讨会 (播放列表)
+
+### Building AI Agents
+- URL: https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG
+- 类型: 视频合集
+- 分类: Agentic AI 与多代理, 生成式AI开发与产品落地
+- 主题: AI 代理开发, 工具实践, 部署技巧
+- 推荐度: 4
+- 摘要: Building AI Agents 播放列表汇集 Python 构建代理的教程和最佳实践，包括工具链选择、任务分解与部署技巧。
+- 标签: Python 实战, 任务分解, 工具组合, 部署演示, 最佳实践
+- 佐证: 播放列表标题与描述突出构建 AI Agents (YouTube 页面)；视频涵盖教程与案例 (列表内容)
+
+### Deep Dive into LLMs like ChatGPT
+- URL: https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn
+- 类型: 视频
+- 分类: AI 素养与伦理, 生成式AI开发与产品落地
+- 主题: LLM 原理, 科普, 安全边界
+- 推荐度: 3
+- 摘要: Deep Dive into LLMs 视频面向大众讲解 ChatGPT 背后技术，包括 Transformer、预训练、微调与安全限制，适合做入门科普或团队分享。
+- 标签: Transformer, 预训练, 微调, 安全限制, 通俗讲解
+- 佐证: 视频描述强调面向大众的 LLM 深度解析 (YouTube 页面)；内容覆盖技术与应用限制 (视频概要)
+
+### LangChain
+- URL: https://www.youtube.com/@LangChain
+- 类型: 视频频道
+- 分类: RAG 与检索增强, Agentic AI 与多代理
+- 主题: LangChain 工具, 教程演示, 社区生态
+- 推荐度: 4
+- 摘要: LangChain 官方频道发布产品演示、教程与社区活动，展示最新的 LangGraph、LangServe、MCP 集成等功能及合作案例。
+- 标签: LangGraph, LangServe, 案例展示, 教程, 社区活动
+- 佐证: 频道视频涵盖产品更新与教程 (YouTube 列表)；官方渠道发布最新能力 (频道定位)
+
+### Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+- URL: http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s
+- 类型: 视频
+- 分类: RAG 与检索增强
+- 主题: RAG 实操, LangChain, 评估部署
+- 推荐度: 4
+- 摘要: LangChain 工程师主讲的 Learn RAG from Scratch 教程，通过 Python 实现检索、嵌入、存储、重排序与问答，强调评估与上线注意事项。
+- 标签: 嵌入生成, 向量存储, 重排序, LangChain, 评估方法
+- 佐证: 视频标题与内容明确 RAG From Scratch (YouTube 页面)；讲解从构建到评估的流程 (视频概要)
+
+### Lecture 1
+- URL: http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t
+- 类型: 视频合集
+- 分类: 机器学习与深度学习基础, 社区与资讯
+- 主题: AI 入门, 课程讲解, 案例分析
+- 推荐度: 3
+- 摘要: Lecture 1 属于免费 AI 课程系列，覆盖基础概念、案例分析与作业说明，配有直播与录播，适合作为系统学习的起点。
+- 标签: 免费课程, 直播录播, 作业说明, 案例讲解, 系列学习
+- 佐证: 播放列表描述说明免费 AI 课程与直播安排 (YouTube 页面)；提供录播与作业信息 (视频说明)
+
+### Neural networks
+- URL: http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- 类型: 视频合集
+- 分类: 机器学习与深度学习基础, 数学与理论深化
+- 主题: 神经网络原理, 可视化, 数学推导
+- 推荐度: 5
+- 摘要: 3Blue1Brown 的 Neural Networks 系列用动画推导前向、反向传播、梯度下降与卷积，为理解现代深度学习提供直观底层视角。
+- 标签: 前向传播, 反向传播, 梯度下降, 可视化讲解, 直观理解
+- 佐证: 播放列表包含神经网络系列 (YouTube 列表)；强调可视化推导 (系列特色)
+
+### Theo - t3․gg
+- URL: https://www.youtube.com/@t3dotgg
+- 类型: 视频频道
+- 分类: 开发者效率与工具, 生成式AI开发与产品落地
+- 主题: 全栈工程, 开发者效率, AI 工具评测
+- 推荐度: 3
+- 摘要: Theo (t3.gg) 频道分享全栈 TypeScript、工程生产力与 AI 辅助开发的实践经验，常讨论如何将现代工具链整合进产品迭代。
+- 标签: TypeScript, tRPC/TurboRepo, 工程效率, AI 工具, 产品迭代
+- 佐证: 频道简介强调全栈 TypeScript 与工具分享 (YouTube About)；视频涵盖 AI 开发体验与评测 (频道内容)

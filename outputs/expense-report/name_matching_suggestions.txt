@@ -1,0 +1,91 @@
+================================================================================
+NAME MATCHING SUGGESTIONS FOR MANUAL REVIEW
+================================================================================
+
+The following 13 names from the CS Monthly AI Subscriptions report could not be
+automatically matched to the People and AI Info list (matching score < 85).
+
+Please review and manually identify the correct matches:
+
+1. Byoung Hyun Bae (109907) - score: 80
+   Likely match: Byoung Bae (very close match)
+
+2. Elias Mera Avila (115062) - score: 72
+   Likely match: Elías Mera (accent difference)
+
+3. Guilherme Boreki (116219) - score: 67
+   Likely match: G Boreki (abbreviated first name)
+
+4. Krishna Sai Pendela Bala Venkata (117599) - score: 55
+   Likely match: Sai Pendela (short version of full name)
+
+5. Liuqing Ma (109598) - score: 70
+   Possible matches to review manually
+
+6. Oluwatobi Oni-Orisan (116486) - score: 57
+   Likely match: Tobi Oni-Orisan (shortened first name)
+
+7. Qihong Shao (118377) - score: 67
+   Likely match: Tiffany Shao (Qihong might be Chinese name, Tiffany English name)
+
+8. Shengnan Wang (114264) - score: 73
+   Possible matches to review manually
+
+9. Wenzhu Zhao (113444) - score: 64
+   Possible matches to review manually
+
+10. Xing Liu (117655) - score: 75
+    Likely match: Shane Liu (Xing might be Chinese name, Shane English name)
+
+11. Yan Xue (117903) - score: 71
+    Possible matches to review manually
+
+12. Zi Wang (117711) - score: 82
+    Many Wang surnames exist; needs manual review
+
+13. Ziyi Wang (107524) - score: 74
+    Many Wang surnames exist; needs manual review
+
+================================================================================
+CROSS-CHECK DISCREPANCIES
+================================================================================
+
+The following people are marked as 'Expensed' in the People and AI Info sheet
+but were NOT found in the subscription report (7 people):
+
+- Byoung Bae (likely matched as "Byoung Hyun Bae" in subscriptions)
+- Elías Mera (likely matched as "Elias Mera Avila" in subscriptions)
+- G Boreki (likely matched as "Guilherme Boreki" in subscriptions)
+- Monica Ma (NOT in subscription report - discrepancy)
+- Sai Pendela (likely matched as "Krishna Sai Pendela Bala Venkata" in subscriptions)
+- Tiffany Shao (possibly matched as "Qihong Shao" in subscriptions)
+- Tobi Oni-Orisan (likely matched as "Oluwatobi Oni-Orisan" in subscriptions)
+
+The following people reported expenses but are NOT marked in 'Expensed' column (12 people):
+
+- Xue Li
+- Yaolin Chen
+- Ying Lyu
+- Yisha Wu
+- Yuanpei Cao
+- Yujin Hong
+- Zecheng Xu
+- Zekun Wang
+- Zerui Wang
+- Zhang Zhang
+- Zhigang Zhang
+- Zhong Ren
+
+These 12 people should potentially be marked as 'Expensed' in the People and AI Info sheet.
+
+================================================================================
+ACTION ITEMS
+================================================================================
+
+1. Review the 13 unmatched names above and manually identify correct matches
+2. Investigate Monica Ma - marked as expensed but not in subscription report
+3. Consider updating the 'Expensed' column for the 12 people listed above who
+   reported expenses but aren't marked
+4. After manual matching, you can re-run the analysis with corrected names
+
+================================================================================

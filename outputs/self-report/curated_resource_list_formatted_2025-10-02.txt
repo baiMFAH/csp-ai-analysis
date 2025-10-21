@@ -1,0 +1,101 @@
+================================================================================
+CURATED AI LEARNING RESOURCES
+================================================================================
+Generated on: 2025-10-02 15:18:20
+Total Resources: 14
+
+
+📂 AI_COURSE (2 resources)
+------------------------------------------------------------
+
+1. Claude Code: A Highly Agentic Coding Assistant
+   Category: AI_Course
+   Summary: Explore, build, and refine codebases with Claude Code.
+   Link: http://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant
+
+2. Generative AI for Software Development
+   Category: AI_Course
+   Summary: Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code.
+   Link: https://www.deeplearning.ai/courses/generative-ai-for-software-development
+
+📂 BOOK (2 resources)
+------------------------------------------------------------
+
+1. AI Engineering
+   Category: Book
+   Summary: Recent breakthroughs in AI have not only increased demand for AI products, they've also lowered the barriers to entry for those who want to build A...
+   Link: https://www.oreilly.com/library/view/ai-engineering/9781098166298
+
+2. Hands-On Large Language Models
+   Category: Book
+   Summary: Preface Large language models (LLMs) have had a profound and far-reaching impact on the world. By enabling machines to better understand and genera...
+   Link: https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/preface01.html
+
+📂 CODE_REPOSITORY (1 resources)
+------------------------------------------------------------
+
+1. courses/prompt_engineering_interactive_tutorial/Anthropic 1P at master · anthropics/courses
+   Category: Code_Repository
+   Summary: Anthropic's educational courses. Contribute to anthropics/courses development by creating an account on GitHub.
+   Link: https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial/Anthropic%201P
+
+📂 COURSE (1 resources)
+------------------------------------------------------------
+
+1. Udemy] The Complete Agentic AI Engineering Course
+   Category: Course
+   Summary: No summary available
+   Link: http://www.udemy.com/course/the-complete-agentic-ai-engineering-course/?couponCode=MT250923G3
+
+📂 GENERAL (4 resources)
+------------------------------------------------------------
+
+1. 3Blue1Brown
+   Category: General
+   Summary: Mathematics with a distinct visual perspective. Linear algebra, calculus, neural networks, topology, and more.
+   Link: https://www.3blue1brown.com/topics/neural-networks
+
+2. AI Fluency: Framework & Foundations
+   Category: General
+   Summary: Learn to collaborate with AI systems effectively, efficiently, ethically, and safely
+   Link: https://anthropic.skilljar.com/ai-fluency-framework-foundations
+
+3. Agentic AI MOOC
+   Category: General
+   Summary: MOOC, Fall 2025
+   Link: https://agenticai-learning.org/f25
+
+4. Building with the Claude API
+   Category: General
+   Summary: This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API
+   Link: https://anthropic.skilljar.com/claude-with-the-anthropic-api
+
+📂 SLACK_CHANNEL (1 resources)
+------------------------------------------------------------
+
+1. #ai-for-dev-productivity
+   Category: Slack_Channel
+   Summary: Slack channel: #ai-for-dev-productivity
+   Link: N/A
+
+📂 VIDEO (3 resources)
+------------------------------------------------------------
+
+1. AI Dev 25: Code, learn, connect.
+   Category: Video
+   Summary: Wow—what a day! AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we’re grateful you were part of ...
+   Link: https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L
+
+2. Deep Dive into LLMs like ChatGPT
+   Category: Video
+   Summary: This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f...
+   Link: https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn
+
+3. Neural Networks: Zero to Hero
+   Category: Video
+   Summary: Share your videos with friends, family, and the world
+   Link: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
+================================================================================
+Total unique resources catalogued: 14
+================================================================================
