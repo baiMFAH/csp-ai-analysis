@@ -1,0 +1,289 @@
+================================================================================
+CURATED AI LEARNING RESOURCES
+================================================================================
+Generated on: 2025-10-17 12:56:33
+Total Resources: 50
+
+
+📂 AI_LEARNING_PLATFORM (12 resources)
+------------------------------------------------------------
+
+1. AI Agents in LangGraph
+   Category: AI_Learning_Platform
+   Summary: Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search.
+   Link: https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction
+
+2. AI Fluency: Framework & Foundations
+   Category: AI_Learning_Platform
+   Summary: Learn to collaborate with AI systems effectively, efficiently, ethically, and safely
+   Link: https://anthropic.skilljar.com/ai-fluency-framework-foundations
+
+3. Agentic AI
+   Category: AI_Learning_Platform
+   Summary: In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows.
+   Link: https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome
+
+4. Building with the Claude API
+   Category: AI_Learning_Platform
+   Summary: This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API
+   Link: https://anthropic.skilljar.com/claude-with-the-anthropic-api
+
+5. ChatGPT Prompt Engineering for Developers
+   Category: AI_Learning_Platform
+   Summary: Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, ...
+   Link: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines
+
+6. Claude Code: A Highly Agentic Coding Assistant
+   Category: AI_Learning_Platform
+   Summary: Explore, build, and refine codebases with Claude Code.
+   Link: https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant
+
+7. Generative AI for Software Development
+   Category: AI_Learning_Platform
+   Summary: Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code.
+   Link: https://www.deeplearning.ai/courses/generative-ai-for-software-development
+
+8. MCP: Build Rich-Context AI Apps with Anthropic
+   Category: AI_Learning_Platform
+   Summary: Build AI apps that access tools, data, and prompts using the Model Context Protocol.
+   Link: https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic
+
+9. Machine Learning Specialization
+   Category: AI_Learning_Platform
+   Summary: New Machine Learning Specialization, an updated foundational program for beginners created by Andrew Ng | Start Your AI Career Today
+   Link: http://www.deeplearning.ai/courses/machine-learning-specialization
+
+10. Neural Networks: Zero To Hero
+   Category: AI_Learning_Platform
+   Summary: No summary found
+   Link: https://karpathy.ai/zero-to-hero.html
+
+11. Pair Programming with a Large Language Model
+   Category: AI_Learning_Platform
+   Summary: Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.
+   Link: https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction
+
+12. Reinforcement Fine-Tuning LLMs with GRPO
+   Category: AI_Learning_Platform
+   Summary: Improve LLM reasoning with reinforcement fine-tuning and reward functions.
+   Link: http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo
+
+📂 ARTICLE (1 resources)
+------------------------------------------------------------
+
+1. The Episode Archive
+   Category: Article
+   Summary: Get access to our past episodes. Your level of membership determines how many episodes you can pull from the archive per day.
+   Link: https://journalclub.io/episodes
+
+📂 BOOK (5 resources)
+------------------------------------------------------------
+
+1. AI Engineering: Building Applications with Foundation Models
+   Category: Book
+   Summary: AI Engineering: Building Applications with Foundation Models [Huyen, Chip] on Amazon.com. *FREE* shipping on qualifying offers. AI Engineering: Bui...
+   Link: http://www.amazon.com/dp/1098166302
+
+2. Designing Machine Learning Systems
+   Category: Book
+   Summary: Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakehol...
+   Link: http://www.oreilly.com/library/view/designing-machine-learning/9781098107956
+
+3. Grokking Machine Learning - Luis G. Serrano
+   Category: Book
+   Summary: Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac...
+   Link: https://www.manning.com/books/grokking-machine-learning
+
+4. Hands-On Large Language Models
+   Category: Book
+   Summary: AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are ...
+   Link: https://www.oreilly.com/library/view/hands-on-large-language/9781098150952
+
+5. LLMs in Production: From language models to successful products
+   Category: Book
+   Summary: LLMs in Production: From language models to successful products [Brousseau, Christopher, Sharp, Matt] on Amazon.com. *FREE* shipping on qualifying ...
+   Link: http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205
+
+📂 CODE_REPOSITORY (1 resources)
+------------------------------------------------------------
+
+1. courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses
+   Category: Code_Repository
+   Summary: Anthropic's educational courses. Contribute to anthropics/courses development by creating an account on GitHub.
+   Link: https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb
+
+📂 COURSE (17 resources)
+------------------------------------------------------------
+
+1. Advanced Prompt Engineering for Everyone
+   Category: Course
+   Summary: Offered by Vanderbilt University. Unlock the full potential of generative AI and become a master of prompt engineering. Dive deeper into how ... En...
+   Link: https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone
+
+2. Agentic AI MOOC
+   Category: Course
+   Summary: MOOC, Fall 2025
+   Link: https://agenticai-learning.org/f25
+
+3. ChatGPT Prompt Engineering for Developers (Short Course)
+   Category: Course
+   Summary: Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right...
+   Link: https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project
+
+4. Computer Science for Artificial Intelligence Professional Certificate
+   Category: Course
+   Summary: Learn programming fundamentals and how to use machine learning in Python.
+   Link: https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence
+
+5. Generative AI for Software Developers
+   Category: Course
+   Summary: Offered by IBM. Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol...
+   Link: https://www.coursera.org/specializations/generative-ai-for-software-developers
+
+6. Generative AI with Large Language Models
+   Category: Course
+   Summary: Learn how generative AI and large language models work in this course from AWS and DeepLearning.AI. Explore key concepts and techniques for buildin...
+   Link: https://www.coursera.org/learn/generative-ai-with-llms
+
+7. Google AI Essentials
+   Category: Course
+   Summary: Offered by Google. Boost Your Productivity with AI Tools. New to AI? Learn from Google experts how AI can help you speed up daily tasks and ... Enr...
+   Link: http://www.coursera.org/specializations/ai-essentials-google
+
+8. Google Prompting Essentials
+   Category: Course
+   Summary: Offered by Google. Unlock AI’s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and ... Enrol...
+   Link: https://www.coursera.org/specializations/prompting-essentials-google
+
+9. IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+   Category: Course
+   Summary: Offered by IBM. Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career ... Enroll ...
+   Link: http://www.coursera.org/specializations/ibm-rag-and-agentic-ai
+
+10. Intro to Generative AI: A Beginner's Primer on Core Concepts
+   Category: Course
+   Summary: Offered by Google Cloud.  Enroll for free.
+   Link: https://www.coursera.org/specializations/introduction-to-generative-ai
+
+11. Llm Engineering Master Ai And Large Language Models (Udemy Course)
+   Category: Course
+   Summary: Udemy course: Llm Engineering Master Ai And Large Language Models. Access blocked - please visit URL to see full details.
+   Link: http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0
+
+12. Machine Learning in Production
+   Category: Course
+   Summary: Offered by DeepLearning.AI. In this Machine Learning in Production course, you will build intuition about designing a production ML system ... Enro...
+   Link: https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2
+
+13. Machine Learning with Scikit-learn, PyTorch & Hugging Face
+   Category: Course
+   Summary: Offered by Stanford University and DeepLearning.AI. #BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and ... Enrol...
+   Link: http://www.coursera.org/specializations/machine-learning-introduction
+
+14. Retrieval Augmented Generation (RAG)
+   Category: Course
+   Summary: Offered by DeepLearning.AI. Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data ... Enro...
+   Link: http://www.coursera.org/learn/retrieval-augmented-generation-rag
+
+15. The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)
+   Category: Course
+   Summary: Udemy course: The Ai Engineer Course Complete Ai Engineer Bootcamp. Access blocked - please visit URL to see full details.
+   Link: https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp
+
+16. The Complete Agentic Ai Engineering Course (Udemy Course)
+   Category: Course
+   Summary: Udemy course: The Complete Agentic Ai Engineering Course. Access blocked - please visit URL to see full details.
+   Link: http://www.udemy.com/course/the-complete-agentic-ai-engineering-course
+
+17. Udemy Course (Shared Link)
+   Category: Course
+   Summary: Udemy course shared link. Access blocked - please visit URL to see course details.
+   Link: https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==
+
+📂 DOCUMENTATION (1 resources)
+------------------------------------------------------------
+
+1. Machine Learning
+   Category: Documentation
+   Summary: These modules cover the fundamentals of building regression and classification
+   models.
+   Link: https://developers.google.com/machine-learning/crash-course
+
+📂 SLACK_CHANNEL (1 resources)
+------------------------------------------------------------
+
+1. #ai-for-dev-productivity
+   Category: Slack_Channel
+   Summary: Slack channel: #ai-for-dev-productivity
+   Link: N/A
+
+📂 VIDEO (12 resources)
+------------------------------------------------------------
+
+1. 3Blue1Brown
+   Category: Video
+   Summary: My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualiz...
+   Link: http://www.youtube.com/c/3blue1brown
+
+2. AI Dev 25: Code, learn, connect.
+   Category: Video
+   Summary: Wow—what a day! AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we’re grateful you were part of ...
+   Link: https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L
+
+3. Andrej Karpathy
+   Category: Video
+   Summary: No summary available
+   Link: https://www.youtube.com/andrejkarpathy
+
+4. Anthropic
+   Category: Video
+   Summary: We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. 
+
+We believe A...
+   Link: https://www.youtube.com/@anthropic-ai
+
+5. Berkeley RDI Center on Decentralization & AI
+   Category: Video
+   Summary: UC Berkeley RDI Center – rdi.berkeley.edu
+World's first Advanced LLM Agents MOOC - llmagents-learning.org/sp25
+World's first LLM Agents MOOC - llma...
+   Link: http://www.youtube.com/@BerkeleyRDI
+
+6. Building AI Agents
+   Category: Video
+   Summary: Tutorials and best practices for building AI systems and agents with Python
+   Link: https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG
+
+7. Deep Dive into LLMs like ChatGPT
+   Category: Video
+   Summary: This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f...
+   Link: https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn
+
+8. LangChain
+   Category: Video
+   Summary: Learn more about building LLM applications with LangChain
+   Link: https://www.youtube.com/@LangChain
+
+9. Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+   Category: Video
+   Summary: Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer. This Python course teaches y...
+   Link: http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s
+
+10. Lecture 1
+   Category: Video
+   Summary: The AI course is entirely free.Live classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.Recorded lectures wi...
+   Link: http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t
+
+11. Neural networks
+   Category: Video
+   Summary: Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world.
+   Link: http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+12. Theo - t3․gg
+   Category: Video
+   Summary: Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg
+   Link: https://www.youtube.com/@t3dotgg
+
+================================================================================
+Total unique resources catalogued: 50
+================================================================================

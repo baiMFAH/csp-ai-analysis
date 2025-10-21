@@ -1,0 +1,33 @@
+============================================================
+SURVEY COMPLETION RATE SUMMARY REPORT
+============================================================
+Generated on: 2025-10-10 10:34:13
+
+📊 TOTAL SURVEY RESPONSES: 215
+
+1️⃣  AI RESOURCES USED COLUMN COMPLETION:
+    Column: AI Resources Used
+    ✅ 118 users filled the column (54.9%)
+    ❌ 97 users left it blank (45.1%)
+
+2️⃣  SPECIFIC AI RESOURCES USAGE:
+    📚 Target resources: Books, Deeplearning.ai, Youtube, Udemy, Coursera, Maven
+    ✅ 58 users mentioned target resources (49.2% of filled responses)
+    📈 This represents 27.0% of all survey responses
+
+3️⃣  LINK PROVIDED COMPLETION (among target resource users):
+    Column: References / Links
+    ✅ 30 users provided links (51.7%)
+    ❌ 28 users did not provide links (48.3%)
+
+📋 RESOURCE MENTIONS BREAKDOWN:
+    Books: 18 mentions (15.3% of filled responses)
+    Deeplearning.ai: 19 mentions (16.1% of filled responses)
+    Youtube: 25 mentions (21.2% of filled responses)
+    Udemy: 10 mentions (8.5% of filled responses)
+    Coursera: 20 mentions (16.9% of filled responses)
+    Maven: 1 mentions (0.8% of filled responses)
+
+============================================================
+Report files saved with date: 2025-10-10
+============================================================

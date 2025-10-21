@@ -1,0 +1,145 @@
+topic,count,titles
+PyTorch 实战,2,"Neural Networks: Zero To Hero; Machine Learning with Scikit-learn, PyTorch & Hugging Face"
+团队协作,2,LLMs in Production: From language models to successful products; #ai-for-dev-productivity
+大模型原理,2,Hands-On Large Language Models; Generative AI with Large Language Models
+开发者效率,2,#ai-for-dev-productivity; Theo - t3․gg
+机器学习基础,2,Machine Learning Specialization; Machine Learning
+模型监控,2,Designing Machine Learning Systems; Machine Learning in Production
+AI 代理开发,1,Building AI Agents
+AI 入门,1,Lecture 1
+AI 合作力,1,AI Fluency: Framework & Foundations
+AI 工具评测,1,Theo - t3․gg
+AI 工程,1,Udemy Course (Shared Link)
+AI 工程全栈,1,The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)
+AI 工程栈,1,AI Engineering: Building Applications with Foundation Models
+AI 算法,1,Computer Science for Artificial Intelligence Professional Certificate
+AI 素养,1,Google AI Essentials
+AI 趋势,1,The Episode Archive
+Agentic AI,1,Agentic AI
+Agentic AI 框架,1,AI Agents in LangGraph
+Agentic AI 研究,1,Agentic AI MOOC
+Agentic 工作流,1,IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+Agentic 系统,1,The Complete Agentic Ai Engineering Course (Udemy Course)
+Agentic 编程,1,Claude Code: A Highly Agentic Coding Assistant
+Anthropic API,1,Building with the Claude API
+Claude Code,1,Claude Code: A Highly Agentic Coding Assistant
+Claude 产品,1,Anthropic
+Claude 应用,1,courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses
+DevOps 自动化,1,Generative AI for Software Developers
+GRPO,1,Reinforcement Fine-Tuning LLMs with GRPO
+Hugging Face,1,"Machine Learning with Scikit-learn, PyTorch & Hugging Face"
+LLM 产品落地,1,LLMs in Production: From language models to successful products
+LLM 原理,1,Deep Dive into LLMs like ChatGPT
+LLM 实践技巧,1,ChatGPT Prompt Engineering for Developers
+LLM 工程,1,Llm Engineering Master Ai And Large Language Models (Udemy Course)
+LLM 结对编程,1,Pair Programming with a Large Language Model
+LLM 配对编程,1,Generative AI for Software Development
+LangChain,1,Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+LangChain 工具,1,LangChain
+LangGraph 技术栈,1,AI Agents in LangGraph
+MCP 协议,1,MCP: Build Rich-Context AI Apps with Anthropic
+MCP 工具链,1,Claude Code: A Highly Agentic Coding Assistant
+MLOps,1,Designing Machine Learning Systems
+MLOps 实践,1,Machine Learning in Production
+OpenAI API,1,ChatGPT Prompt Engineering for Developers
+OpenAI 开发,1,ChatGPT Prompt Engineering for Developers (Short Course)
+Prompt Engineering,1,ChatGPT Prompt Engineering for Developers
+Prompt 实操,1,ChatGPT Prompt Engineering for Developers (Short Course)
+Prompt 模板,1,Google Prompting Essentials
+Python 实操,1,Grokking Machine Learning - Luis G. Serrano
+Python 编程,1,Computer Science for Artificial Intelligence Professional Certificate
+RAG,1,Llm Engineering Master Ai And Large Language Models (Udemy Course)
+RAG 实战,1,Building with the Claude API
+RAG 实操,1,Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+RAG 实践,1,IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+RAG 流程,1,Retrieval Augmented Generation (RAG)
+TensorFlow 实操,1,Machine Learning
+云端实践,1,Generative AI with Large Language Models
+云端实验,1,Intro to Generative AI: A Beginner's Primer on Core Concepts
+交互式 Notebook,1,courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses
+产品设计,1,The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)
+代理与工作流,1,The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)
+代码演示,1,Andrej Karpathy
+代码重构,1,Pair Programming with a Large Language Model
+企业应用,1,Google Prompting Essentials
+企业级治理,1,IBM RAG and Agentic AI: Build Next-Gen AI Assistants
+伦理与安全,1,AI Fluency: Framework & Foundations
+伦理指南,1,Google AI Essentials
+全栈工程,1,Theo - t3․gg
+前沿研究速览,1,The Episode Archive
+去中心化 AI,1,Berkeley RDI Center on Decentralization & AI
+可视化,1,Neural networks
+可视化教学,1,3Blue1Brown
+外部工具集成,1,MCP: Build Rich-Context AI Apps with Anthropic
+多代理框架,1,The Complete Agentic Ai Engineering Course (Udemy Course)
+多智能体协作,1,AI Agents in LangGraph
+多智能体系统,1,Agentic AI MOOC
+多模态提示,1,Google Prompting Essentials
+奖励设计,1,Reinforcement Fine-Tuning LLMs with GRPO
+学术讲座,1,Berkeley RDI Center on Decentralization & AI
+安全上下文管理,1,MCP: Build Rich-Context AI Apps with Anthropic
+安全治理,1,Agentic AI MOOC
+安全研究,1,Anthropic
+安全边界,1,Deep Dive into LLMs like ChatGPT
+实战项目,1,Agentic AI
+嵌入与检索,1,Retrieval Augmented Generation (RAG)
+工具分享,1,#ai-for-dev-productivity
+工具发布,1,"AI Dev 25: Code, learn, connect."
+工具实践,1,Building AI Agents
+工具调用,1,Building with the Claude API
+工程落地,1,Hands-On Large Language Models
+应用落地,1,AI Engineering: Building Applications with Foundation Models
+开发者大会,1,"AI Dev 25: Code, learn, connect."
+强化学习微调,1,Reinforcement Fine-Tuning LLMs with GRPO
+微调与评估,1,Hands-On Large Language Models
+快速项目,1,ChatGPT Prompt Engineering for Developers (Short Course)
+提示工程教程,1,courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses
+提示模版,1,Pair Programming with a Large Language Model
+提示策略,1,Generative AI with Large Language Models
+政策讨论,1,Berkeley RDI Center on Decentralization & AI
+教程演示,1,LangChain
+数学推导,1,Neural networks
+数学直觉,1,3Blue1Brown
+数据迭代,1,Machine Learning in Production
+无监督学习,1,Machine Learning Specialization
+机器学习入门,1,Grokking Machine Learning - Luis G. Serrano
+机器学习到深度学习,1,"Machine Learning with Scikit-learn, PyTorch & Hugging Face"
+机器学习系统设计,1,Designing Machine Learning Systems
+案例分享,1,"AI Dev 25: Code, learn, connect."
+案例分析,1,Lecture 1
+模型对齐,1,Advanced Prompt Engineering for Everyone
+模型解析,1,Andrej Karpathy
+模型评估,1,Machine Learning
+模型部署,1,Machine Learning Specialization
+流程编排,1,Agentic AI
+深度学习原理,1,3Blue1Brown
+深度学习基础,1,Neural Networks: Zero To Hero
+深度学习实现,1,Andrej Karpathy
+生产力工具,1,Google AI Essentials
+生态更新,1,Anthropic
+生成式 AI 基础,1,Intro to Generative AI: A Beginner's Primer on Core Concepts
+生成式 AI 工程,1,Generative AI for Software Developers
+生成式 AI 开发,1,Generative AI for Software Development
+社区生态,1,LangChain
+神经网络原理,1,Neural networks
+科普,1,Deep Dive into LLMs like ChatGPT
+算法直觉,1,Grokking Machine Learning - Luis G. Serrano
+组织赋能,1,AI Fluency: Framework & Foundations
+计算机基础,1,Computer Science for Artificial Intelligence Professional Certificate
+评估与上线,1,AI Engineering: Building Applications with Foundation Models
+评估与监控,1,The Complete Agentic Ai Engineering Course (Udemy Course)
+评估指标,1,Retrieval Augmented Generation (RAG)
+评估部署,1,Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer
+语言模型,1,Neural Networks: Zero To Hero
+课程捆绑,1,Udemy Course (Shared Link)
+课程讲解,1,Lecture 1
+责任 AI,1,Intro to Generative AI: A Beginner's Primer on Core Concepts
+跨学科学习,1,The Episode Archive
+软件工程实践,1,Generative AI for Software Development
+软件开发,1,Generative AI for Software Developers
+运营与监控,1,LLMs in Production: From language models to successful products
+部署实践,1,Llm Engineering Master Ai And Large Language Models (Udemy Course)
+部署技巧,1,Building AI Agents
+项目学习,1,Udemy Course (Shared Link)
+风险治理,1,Advanced Prompt Engineering for Everyone
+高级提示工程,1,Advanced Prompt Engineering for Everyone

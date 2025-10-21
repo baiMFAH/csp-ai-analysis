@@ -1,0 +1,31 @@
+Item,Value_1
+Survey Completion Rate Summary Report,
+Generated on:,2025-10-17 12:52:40
+,
+BASIC STATISTICS,
+Total Survey Responses:,217
+,
+AI RESOURCES COMPLETION,
+AI Resources Column:,AI Resources Used
+Users who filled AI Resources:,121/217
+Completion Ratio:,55.76%
+,
+TARGET RESOURCES ANALYSIS,
+Target Resources:,"Books, Deeplearning.ai, Youtube, Udemy, Coursera, Maven"
+Users with Target Resources:,58/121
+Ratio of Filled Responses:,47.93%
+Ratio of Total Responses:,26.73%
+,
+LINK PROVIDED ANALYSIS,
+Link Column:,References / Links
+Target users who provided links:,48/58
+Link Completion Ratio:,82.76%
+,
+RESOURCE MENTIONS BREAKDOWN,
+Books:,18 mentions (14.9%)
+Deeplearning.ai:,20 mentions (16.5%)
+Youtube:,25 mentions (20.7%)
+Udemy:,10 mentions (8.3%)
+Coursera:,20 mentions (16.5%)
+Maven:,1 mentions (0.8%)
+,
