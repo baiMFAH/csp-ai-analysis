@@ -1,0 +1,83 @@
+{
+  "request_id": "75972164-0743-4cbd-a441-ff8a72c402b2",
+  "response_time": 12.15,
+  "results": [
+    {
+      "url": "https://www.coursera.org/specializations/prompting-essentials-google",
+      "title": "Google Prompting Essentials Specialization - Coursera",
+      "raw_content": "Google Prompting Essentials Specialization\n\n* [About](#about)\n* [Outcomes](#outcomes)\n* [Courses](#courses)\n* [Testimonials](#testimonials)\n\n2. [Browse](/browse)\n3. [Data Science](/browse/data-science)\n4. [Machine Learning](/browse/data-science/machine-learning)\n\nThis Labor Day, enjoy $120 off Coursera Plus. Unlock access to 10,000+ programs. [Save today](https://www.coursera.org/courseraplus/special/august-2025-120-off?utm_medium=coursera&utm_source=bluebanner&utm_campaign=2025AugustTentpoleNAMER).\n\n# Google Prompting Essentials Specialization\n\nUnlock AI’s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and specific prompts.\n\n..."
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "title": "Machine Learning Crash Course - Google for Developers",
+      "raw_content": "* [# Machine Learning](https://developers.google.com/machine-learning)\n\n* English\n* Deutsch\n* Español\n* Français\n* Indonesia\n* Português – Brasil\n* Русский\n* Українська\n* 中文 – 简体\n* 日本語\n* 한국어\n  Sign in\n\n \n\n\n* [Home](https://developers.google.com/)\n..."
+    },
+    {
+      "url": "https://www.coursera.org/specializations/introduction-to-generative-ai",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/ai-essentials-google",
+      "title": "Google AI Essentials",
+      "raw_content": "Google AI Essentials | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/ibm-rag-and-agentic-ai",
+      "title": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants",
+      "raw_content": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "https://www.coursera.org/specializations/introduction-to-generative-ai",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    },
+    {
+      "url": "https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2",
+      "title": "Machine Learning in Production",
+      "raw_content": "Machine Learning in Production | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/machine-learning-introduction",
+      "title": "Machine Learning",
+      "raw_content": "Machine Learning | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/learn/retrieval-augmented-generation-rag",
+      "title": "Retrieval Augmented Generation (RAG)",
+      "raw_content": "Retrieval Augmented Generation (RAG) | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp",
+      "title": "The AI Engineer Course 2025: Complete AI Engineer Bootcamp",
+      "raw_content": "The AI Engineer Course 2025: Complete AI Engineer Bootcamp | Udemy\n\n===============\n..."
+    },
+    {
+      "url": "http://www.udemy.com/course/the-complete-agentic-ai-engineering-course",
+      "title": "The Complete Agentic AI Engineering Course (2025)",
+      "raw_content": "The Complete Agentic AI Engineering Course (2025) | Udemy\n\n===============\n..."
+    },
+    {
+      "url": "https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    },
+    {
+      "url": "https://developers.google.com/machine-learning/crash-course",
+      "title": "Machine Learning Crash Course - Google for Developers",
+      "raw_content": "* [# Machine Learning](https://developers.google.com/machine-learning)\n\n* English\n..."
+    }
+  ],
+  "failed_results": [
+    {
+      "url": "http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205",
+      "error": "Failed to fetch content"
+    }
+  ],
+  "topic": null
+}

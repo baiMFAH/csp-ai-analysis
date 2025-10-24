@@ -1,0 +1,3 @@
+The Episode Archive	https://journalclub.io/episodes
+courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master · anthropics/courses	https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb
+#ai-for-dev-productivity	N/A

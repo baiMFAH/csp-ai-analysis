@@ -1,0 +1,60 @@
+{
+  "request_id": "1b0b7aae-50bc-4fb6-9513-292b5863b4a4",
+  "response_time": 0.57,
+  "results": [
+    {
+      "url": "https://www.youtube.com/andrejkarpathy",
+      "title": "Andrej Karpathy - YouTube",
+      "raw_content": "Back\n\n[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fandrejkarpathy&hl=en&ec=65620)\n\n...\n"
+    },
+    {
+      "url": "https://www.youtube.com/@anthropic-ai",
+      "title": "Anthropic - YouTube",
+      "raw_content": "Anthropic - YouTube\n\n===============\n\n Back [![Image 1](https://www.youtube.com/@anthropic-ai)](https://www.youtube.com/ \"YouTube Home\")\n\n...\n"
+    },
+    {
+      "url": "https://www.youtube.com/@LangChain",
+      "title": "LangChain",
+      "raw_content": "LangChain - YouTube\n\n===============\n\n Back [![Image 1](https://www.youtube.com/@LangChain)](https://www.youtube.com/ \"YouTube Home\")\n\n...\n"
+    },
+    {
+      "url": "https://www.youtube.com/@t3dotgg",
+      "title": "Theo - t3․gg - YouTube",
+      "raw_content": "Back\n\n[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540t3dotgg&hl=en&ec=65620)\n\n...\n"
+    }
+  ],
+  "failed_results": [
+    {
+      "url": "http://www.youtube.com/@BerkeleyRDI",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+      "error": "Failed to fetch content"
+    },
+    {
+      "url": "http://www.youtube.com/c/3blue1brown",
+      "error": "Failed to fetch content"
+    }
+  ]
+}

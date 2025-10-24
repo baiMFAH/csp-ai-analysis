@@ -1,0 +1,32 @@
+{
+  "request_id": "fffe15e2-7ecb-4895-9e48-7eab6a491ae8",
+  "response_time": 16.06,
+  "results": [
+    {
+      "url": "http://www.oreilly.com/library/view/designing-machine-learning/9781098107956",
+      "title": "Designing Machine Learning Systems",
+      "raw_content": "Designing Machine Learning Systems [Book]\n\n===============\n[Skip to Content](http://www.oreilly.com/library/view/designing-machine-learning/9781098107956#main)\n\n*   [For Enterprise](https://www.oreilly.com/online-learning/teams.html)\n*   [For Government](https://www.oreilly.com/online-learning/government.html)\n*   [For Higher Ed](https://www.oreilly.com/online-learning/academic.html)\n*   [For Individuals](https://www.oreilly.com/online-learning/individuals.html)\n*   [For Marketing](https://www.oreilly.com/content-marketing-solutions.html)\n\n...\n"
+    },
+    {
+      "url": "https://www.manning.com/books/grokking-machine-learning",
+      "title": "Grokking Machine Learning - Luis G. Serrano - Manning Publications",
+      "raw_content": "[click to  \nlook inside\n\nLook inside](https://livebook.manning.com/book/grokking-machine-learning)\n[Slideshare: Want to Learn Machine Learning Inside Out?\nread this article now in  \nManning's Free Content Center](https://freecontent.manning.com/slideshare-want-to-learn-machine-learning-inside-out/)\n\n* ch 1 audio\n* video summary\n  first chapter summary\n\n...\n"
+    },
+    {
+      "url": "http://www.amazon.com/dp/1098166302",
+      "title": "AI Engineering: Building Applications with Foundation Models: Huyen, Chip: 9781098166304: Amazon.com: Books",
+      "raw_content": "![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-9057839-5090353:CGKP4NVQ1CZ1EEGDJ46C$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DCGKP4NVQ1CZ1EEGDJ46C:0)\n![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546805360_.png)\n\n...\n"
+    },
+    {
+      "url": "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952",
+      "title": "Hands-On Large Language Models [Book]",
+      "raw_content": "Hands-On Large Language Models [Book]\n\n===============\n[Skip to Content](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952#main)\n\n...\n"
+    }
+  ],
+  "failed_results": [
+    {
+      "url": "http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205",
+      "error": "Failed to fetch content"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+3Blue1Brown	http://www.youtube.com/c/3blue1brown
+AI Dev 25: Code, learn, connect.	https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L
+Andrej Karpathy	https://www.youtube.com/andrejkarpathy
+Anthropic	https://www.youtube.com/@anthropic-ai
+Berkeley RDI Center on Decentralization & AI	http://www.youtube.com/@BerkeleyRDI
+Building AI Agents	https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG
+Deep Dive into LLMs like ChatGPT	https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn
+LangChain	https://www.youtube.com/@LangChain
+Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer	http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s
+Lecture 1	http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t
+Neural networks	http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+Theo - t3․gg	https://www.youtube.com/@t3dotgg

@@ -1,0 +1,138 @@
+{
+  "request_id": "e0a05fe9-c05e-4895-aded-032f2faabb9a",
+  "response_time": 27.2,
+  "results": [
+    {
+      "url": "https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction",
+      "title": "AI Agents in LangGraph - DeepLearning.AI",
+      "raw_content": "## Manage Your Learning Plan\n\nMonthlyYearly\n\n## Change Your Plan\n\nYour subscription plan will change at the end of your current billing period. You’ll continue to have access to your current plan until then.\n\n## Welcome back!\n\nHi ,\n\nWe'd like to know you better so we can create more relevant courses. What do you do for work?\n\n* [Explore Courses](/)\n* Community\n\n  + [Forum](https://bit.ly/3yMNOww)\n  + [Events](https://www.deeplearning.ai/events/)\n  + [Ambassadors](https://www.deeplearning.ai/ambassador/)\n  + [Ambassador Spotlight](https://www.deeplearning.ai/blog/category/ambassador-spotlight/)\n* [My Learnings](/my/learnings)\n\nWelcome to AI Agents and LangGraph. Built in partnership with LangChain and Tivoli. Taught by Harrison Chase, co-founder and CEO of LangChain, as well as Rotem Weiss who is the co-founder and CEO of Tavily. Harrison, it was not quite a year ago that we're working on our first course on LLM frameworks. And back, then we had an ancient example, but, you know, it was a little bit of a struggle to get it to work. Since then, I've seen many teams successfully build AI agents. What was your view on that? Yeah, that's exactly right, Andrew. We've seen many people successfully building agentic applications now, and I think there were a couple of key improvements over the last year. First, function calling LLMs have made tool use much more predictable and stable. And also specific tools like search have been adapted for agentic use. Yes. If you think about it, when you do a query on a search engine, it will return multiple links that you can then follow to find answers. However, what an agent really wants are answered that you can then reference to the link. Also, the agent needs predictable formats for its results. This is exactly what Agentic Search provides. That makes sense. And by the way, I'm personally a user of LangChain and Tavily. And the reason for being excited is of both of you here. And let me start by describing agents and agentic workflows. let's say that the three of us are going to write a paper together. Maybe I would start with some planning and try to put together an initial outline of the paper. Yeah. And I can take it from there and do some research, maybe run some queries and compile documents related to our topic. Okay, I guess that leaves me to write the first draft. I hope it's not a long paper. Yeah, yeah. Short paper. Hopefully. And then after that, I might veto the paper. Try to make some constructive suggestions and hand it back to Harrison to see if he wants to make some changes or to Rotem to see if he wants to do some more research. and so on. And this would be an example of an agentic or an agent like workflow, in which we iterate to produce a work product. And, in contrast to how people often use LLMs to write essays today, which is served by the prompt and the, write the essay for the first work to the last word in one shot. This type of iterative workflow gives a much better work product. In fact, as a person, I don't write that well. If you force me to just write from start to finish with no backspacing allowed. So concretely, you can similarly prompt an LLM to tell it to write an outline, prompt an LLM to write a draft or revise prompt an LLM to do research and so on. But to dive a bit deeper, let me share what I think are some of the key design patterns of agentic workflows. First, I think there's planning, which is thinking through the steps to take like the outline and what to do after that. Then tool use. Knowing what tools are available and how to use them, like our search tool. Reflection, which refers to iteratively improve a result, possibly with multiple LLMs critiquing and making useful suggestions to drive that type of editing cycle. Multi-agent communication. So you can think of each of us as playing a role again to an LLM with a unique prompt to play a unique role in this process. And then memory, that is tracking the progress and results over the multiple steps. Now, some of these capabilities are related to the LLM itself, like function calling for tool use. But many of these capabilities are actually implemented outside the LLM by the framework that they operate in. Exactly. And the LangChain framework has had many of these elements for some time. Memory is available in multiple forms. Supporting function calling, LLMs and tool execution are available. And we talked about this in the last DeepLearning class we did, functions tools and Agents course. But LangChain has recently updated its support for agentic workflows. Here's some examples of agents that we now better support. So, ReAct agents was an early paradigm for building agents, and ReAct stands for reasoning and action. Another example that we recently added support for is the example presented in the Self Refine paper, where it does the iterative refinement that you were talking about. And most recently, you can see the alpha coding example. Which creates a coding agent using flow engineering. And from all these diagrams you can see that these agents and their behavior is defined by a cyclical graph. And to support directly building agents like this, LangChain has extended to support LangGraph. In this course, you will start by building an agent from scratch with just an LLM and Python. Then, you'll learn about the components of LangGraph by rebuilding that same agent using the LangGraph components directly. Since search tools are such an important part of many agent applications, you will learn the capabilities of agentic search and how to use it. There are two additional capabilities that are helpful when building agents. First, is being able to receive human input. This allows you to guide an agent at critical points. The second is persistence. This is the ability to store the current state of information so that you can return to it later. This is great for both debugging agents and for productionalizing them. We will build a project using LangGraph, but you'll have to reach the last lesson to figure out what it is. And at the end, I'll describe some of the cool applications and future directions I see for this technology. Many people have worked to create this course from LangChain. I'd like to thank Lance Martin and Nuno Campos. From Tavily, Assaf Elovic And from DeepLearning.AI. Geoff Ladwig. All right. We don't want to keep those agents waiting. Let's go on to the next video to get started.\n\n[course detail](/courses/ai-agents-in-langgraph/information)\n\n[Next Lesson](/courses/ai-agents-in-langgraph/lesson/c1l2c/build-an-agent-from-scratch)\n\nAI Agents in LangGraph\n\n[* Introduction\n\n  Video\n\n  ・\n\n  6 mins](/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction)[* Build an Agent from Scratch\n\n  Video with Code Example\n\n  ・\n\n  12 mins](/courses/ai-agents-in-langgraph/lesson/c1l2c/build-an-agent-from-scratch)[* LangGraph Components\n\n  Video with Code Example\n\n  ・\n\n  19 mins](/courses/ai-agents-in-langgraph/lesson/l7rgk/langgraph-components)[* Agentic Search Tools\n\n  Video with Code Example\n\n  ・\n\n  5 mins](/courses/ai-agents-in-langgraph/lesson/oj6p9/agentic-search-tools)[* Persistence and Streaming\n\n  Video with Code Example\n\n  ・\n\n  9 mins](/courses/ai-agents-in-langgraph/lesson/nj9ok/persistence-and-streaming)[* Human in the loop\n\n  Video with Code Example\n\n  ・\n\n  14 mins](/courses/ai-agents-in-langgraph/lesson/k87e1/human-in-the-loop)[* Essay Writer\n\n  Video with Code Example\n\n  ・\n\n  18 mins](/courses/ai-agents-in-langgraph/lesson/m0x4m/essay-writer)[* LangChain Resources\n\n  Video\n\n  ・\n\n  2 mins](/courses/ai-agents-in-langgraph/lesson/kyxeg/langchain-resources)[* Video\n\n  ・\n\n  4 mins](/courses/ai-agents-in-langgraph/lesson/b43j5/conclusion)\n\n\n\nCourse Info\n\nQuick Guide & Tips"
+    },
+    {
+      "url": "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
+      "title": "AI Fluency: Framework & Foundations - Anthropic Courses",
+      "raw_content": "# AI Fluency: Framework & Foundations\n\nLearn to collaborate with AI systems effectively, efficiently, ethically, and safely\n\n[Enroll in Course](https://anthropic.skilljar.com/checkout/17mii0ye0vhrr)\nFREE\n\nAlready registered? [Sign In](/auth/login?next=%2Fai-fluency-framework-foundations)\n\n[Share on X](#)\n[Share on LinkedIn](#)\n\n14\nlectures\n\n1.1\nhours of video\n\n1\nquiz\n\n✓\nCertificate of completion\n\n## About this course\n\nAt Anthropic, we believe that empowering people with AI, and ensuring that AI makes safe contributions to society, requires engaging with a wide range of human perspectives and experiences. Responsible AI development and engagement isn't something any single discipline or viewpoint can fully address. It demands collaborative approaches that span a wide range of technical, creative, business, scientific, and educational domains. That's why we partnered with educators who bring complementary expertise to create this foundational course on AI collaboration.\n\nThis course is the result of a long partnership between Anthropic and professors Rick Dakan from Ringling College of Art and Design and Joseph Feller from University College Cork. Rick and Joe developed the AI Fluency Framework in 2023-2024, based on their research exploring how AI tools like Claude were transforming creative and business processes. When we saw the framework, we immediately recognized a shared vision: helping people interact with AI effectively and responsibly, beyond just “cool prompts.” Their framework offered exactly the kind of multidisciplinary perspective we believe is essential for navigating AI’s impact on society.\n\nThe AI Fluency Framework they created — four interconnected competencies (Delegation, Description, Discernment, and Diligence) — enables more effective, efficient, ethical, and safe human-AI collaboration, regardless of which new AI models or tools emerge. We collaborated to develop this course based on their framework, bringing together our collective expertise in AI systems, education, creativity, and business innovation. The work was supported in part by the Higher Education Authority (Ireland) through the National Forum for the Enhancement of Teaching and Learning.\n\nThis framework has already informed undergraduate and postgraduate courses at both Ringling College and University College Cork, as well as staff training initiatives and community outreach events. Now, we’re excited to share these insights more broadly through this open online course.\n\nOur goal is to make AI Fluency accessible and useful to everyone, no matter what stage of AI expertise you find yourself at. We hope you find it valuable in navigating the evolving landscape of AI collaboration.\n\n## Course sections\n\n### AI Fundamentals & Framework\n\n10 lessons\n\nEstablish foundational understanding of generative AI systems and why developing AI fluency matters for effective collaboration. Introduces the 4D Framework as a structured approach to human-AI interaction, covering core capabilities and limitations of current AI technologies. Provides the conceptual grounding needed to approach AI tools strategically rather than reactively.\n\nCourse preview images\n\n### Practical AI Skills\n\n10 lessons\n\nDevelop hands-on competencies for effective AI collaboration through the four core areas of the framework: delegation, description, discernment, and diligence. Learn systematic approaches to project planning with AI, crafting effective prompts, evaluating outputs critically, and iterating through the description-discernment loop. Emphasizes practical application across creative, business, and educational contexts.\n\nCourse preview images\n\n## About the instructors\n\n### Drew Bent\n\nDrew leads education research at Anthropic. He previously co-founded the tutoring non-profit Schoolhouse.world with Sal Khan, which he ran from 2020-24 and now sits on the board. Prior to that, he wrote code at Khan Academy, taught high school math, and has been tutoring students for over a decade. Drew has degrees in physics & CS from MIT, and an education master's from Stanford.\n\n### Rick Dakan\n\nRick is the AI Coordinator and a professor at Ringling College of Art and Design in Sarasota, Florida where he teaches creative writing, interactive experience design, and AI courses. He also oversees the college's *Undergraduate Certificate in Artificial Intelligence* and the *Professional Certificate in Fundamentals of AI for Creatives*. He is a game designer and author of more than thirty games and books from video games and tabletop games to novels, nonfiction, and comics.\n\n### Joseph Feller\n\nJoseph is *Professor of Information Systems and Digital Transformation* at the Cork University Business School, University College Cork, Ireland. His current work focuses on AI-human hybrid creativity, innovation, and learning. His research has been published in *Information Systems Research*, *Journal of MIS*, *Journal of the AIS*, *Journal of Information Technology*, *Information Systems Journal*, *European Journal of Information Systems*, and *Journal of Strategic Information Systems*, and has been funded by the European Commission, Irish Research Council, Irish HEA, and other funding bodies.\n\n### Maggie Vo\n\nMaggie founded and leads Anthropic's education team. She has a varied applied research background from Harvard University, with a career and education that spans fields such as game design, organizational behavior, tech and consumer goods, and human behavioral psychology. Maggie has held previous roles at top consulting firms and innovative startups alike. Prior to Anthropic, she worked in AI strategy consulting.\n\n## AI diligence statement\n\nIn the development of the AI Fluency: Framework and Foundations course, we engaged in extensive collaboration with Claude 3.7 from Anthropic.\n\nThe base content for this course came from:\n\n* The AI Fluency Framework Practical Summary Document by Rick Dakan (at Ringling College of Art and Design) and Joseph Feller (at University College Cork) and related working documents and research notes\n* Slide decks and lecture transcripts from multiple university courses, guest lectures, and research talks delivered by Feller and/or Dakan\n* Technical/practical content provided by Maggie Vo and Drew Bent (Anthropic)\n\nThroughout this process, Claude assisted one or more of the human authors with structural development, resource and exercise design, and content drafting, critiquing, editing and rewriting. The human authors wrote, designed, edited and provided continual vision, expertise, critical judgment, and domain knowledge and made all final decisions about both content and approach.\n\nAll AI-generated and co-created content underwent thorough validation, editing, and curation by the human authors. The final materials accurately reflect the human authors' understanding, expertise, and intended pedagogical approach. While AI assistance was instrumental in producing these materials, the human authors maintain responsibility for the content.\n\nThis disclosure is made in the spirit of transparency advocated by the AI Fluency Framework and to acknowledge the evolving role of AI in educational content development and other creative and intellectual work.\n\n## Data and Privacy\n\nSkilljar is a learning management system that hosts our educational content. You're logging into it to access the Anthropic course materials. This separate platform allows us to provide interactive learning experiences, track your progress, and ensure you have access to all course resources in an organized way.\n\nSkilljar collects basic learning analytics such as course progress, lesson completion status, quiz scores, and time spent on materials. This data helps us understand how you're progressing through the course and allows us to provide you with completion certificates. All data collection is focused on improving your learning experience.\n\nSkilljar only tracks your learning progress within this course platform, while your Anthropic account manages your access to the Anthropic Console and/or Claude AI services.\n\nYes, Skilljar employs industry-standard security measures including data encryption, secure hosting, and regular security audits. Your learning data is stored on secure servers with appropriate access controls. Skilljar is SOC 2 compliant and follows best practices for data protection to ensure your information remains safe and private.\n\nYou can request deletion of your learning activity by emailing [education-support@anthropic.com](mailto:education-support@anthropic.com) or deletion of your entire Skilljar account by emailing [support@skilljar.com](mailto:support@skilljar.com). Your request will be processed in accordance with applicable privacy laws and our data retention policies. Note that some data may need to be retained for legitimate business purposes, such as compliance or security, but we'll delete all personal information where legally permissible.\n\nNo, you don't need an Anthropic account to access this learning content. The course is hosted on Skilljar and only requires a Skilljar account for access. However, if you want to use Claude AI services after completing the course, you would need to create a separate Anthropic account at claude.ai."
+    },
+    {
+      "url": "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome",
+      "title": "Agentic AI - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## 💻   Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n**1:**   Click on *\"File\"*\n\n**2:**   Then, click on *\"Open\"*\n\nYou will be able to see all the notebook files for the lesson, including any helper functions used in the notebook on the left sidebar. See the following image for the steps above.\n\n![](https://assets.deeplearning.ai/imgs/Appendix-Tips-Help-and-Download/upload-file2.png)\n\n## 💻   Downloading Notebooks\n\n..."
+    },
+    {
+      "url": "https://anthropic.skilljar.com/claude-with-the-anthropic-api",
+      "title": "Building with the Claude API - Anthropic Courses",
+      "raw_content": "# Claude with the Anthropic API\n\nThis comprehensive course covers the full spectrum of working with Anthropic models using the Anthropic API\n\n..."
+    },
+    {
+      "url": "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines",
+      "title": "ChatGPT Prompt Engineering for Developers - DeepLearning.AI",
+      "raw_content": "## Welcome back!\n\nHi ,\n\nWe'd like to know you better so we can create more relevant courses. What do you do for work?\n\n..."
+    },
+    {
+      "url": "https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant",
+      "title": "Claude Code: A Highly Agentic Coding Assistant",
+      "raw_content": "Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI\n\n===============\n\n✨ New course! Enroll in[Building Live Voice Agents with Google’s ADK](https://bit.ly/491Hb9I)\n\n..."
+    },
+    {
+      "url": "https://www.deeplearning.ai/courses/generative-ai-for-software-development",
+      "title": "Generative AI for Software Development",
+      "raw_content": "Generative AI for Software Development - DeepLearning.AI\n\n===============\n\n✨ New course! Enroll in[Building Live Voice Agents with Google’s ADK](https://bit.ly/491Hb9I)\n\n..."
+    },
+    {
+      "url": "https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic",
+      "title": "MCP: Build Rich-Context AI Apps with Anthropic - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## 💻   Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n..."
+    },
+    {
+      "url": "http://www.deeplearning.ai/courses/machine-learning-specialization",
+      "title": "Machine Learning Specialization",
+      "raw_content": "Machine Learning Specialization - DeepLearning.AI\n\n===============\n\n✨ New course! Enroll in[Building Live Voice Agents with Google’s ADK](https://bit.ly/491Hb9I)\n\n..."
+    },
+    {
+      "url": "https://karpathy.ai/zero-to-hero.html",
+      "title": "Neural Networks: Zero To Hero - Karpathy",
+      "raw_content": "# Neural Networks: Zero to Hero\n\nA course by Andrej Karpathy on building neural networks, from scratch, in code.\n\n..."
+    },
+    {
+      "url": "https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction",
+      "title": "Pair Programming with a Large Language Model - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## 💻   Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n..."
+    },
+    {
+      "url": "http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo",
+      "title": "Reinforcement Fine-Tuning LLMs with GRPO",
+      "raw_content": "Reinforcement Fine-Tuning LLMs with GRPO - DeepLearning.AI\n\n===============\n\n✨ New course! Enroll in[Building Live Voice Agents with Google’s ADK](https://bit.ly/491Hb9I)\n\n..."
+    },
+    {
+      "url": "https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone",
+      "title": "Advanced Prompt Engineering for Everyone | Coursera",
+      "raw_content": "Advanced Prompt Engineering for Everyone\n\n# Advanced Prompt Engineering for Everyone\n\nThis course is part of [ChatGPT: Master Free AI Tools to Supercharge Productivity Specialization](/specializations/chatgpt-free-ai-tools-to-excel)\n\n..."
+    },
+    {
+      "url": "https://agenticai-learning.org/f25",
+      "title": "Agentic AI MOOC",
+      "raw_content": "Agentic AI\n\n===============\nagentic-ai-mooc\n\n===============\n..."
+    },
+    {
+      "url": "https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project",
+      "title": "ChatGPT Prompt Engineering for Developers (Short Course)",
+      "raw_content": "ChatGPT Prompt Engineering for Developers\n===============\n   \n\n*   [For Individuals](https://www.coursera.org/)\n..."
+    },
+    {
+      "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence",
+      "title": "Computer Science for Artificial Intelligence Professional Certificate",
+      "raw_content": "[edX For Business](https://business.edx.org)\n[Sign In](https://www.edx.org/auth/login)\n[Register for free](https://www.edx.org/auth/register)\n\n**Back-to-school savings — get up to 30% off** select programs until September 10. Use code **SKILLSEDX25**. [Learn more](https://www.edx.org/back-to-school).\n\n..."
+    },
+    {
+      "url": "https://www.coursera.org/specializations/generative-ai-for-software-developers",
+      "title": "Generative AI for Software Developers Specialization - Coursera",
+      "raw_content": "Generative AI for Software Developers Specialization\n\n# Generative AI for Software Developers Specialization\n\nBoost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ..."
+    },
+    {
+      "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+      "title": "Generative AI with Large Language Models - Coursera",
+      "raw_content": "Generative AI with Large Language Models\n\n# Generative AI with Large Language Models\n\nInstructors: [Chris Fregly](/instructor/cfregly)\n\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/ai-essentials-google",
+      "title": "Google AI Essentials",
+      "raw_content": "Google AI Essentials | Coursera\n\n===============\n\n*   [For Individuals](https://www.coursera.org/)\n..."
+    },
+    {
+      "url": "https://www.coursera.org/specializations/prompting-essentials-google",
+      "title": "Google Prompting Essentials Specialization - Coursera",
+      "raw_content": "Google Prompting Essentials Specialization\n\n* [About](#about)\n* [Outcomes](#outcomes)\n* [Courses](#courses)\n* [Testimonials](#testimonials)\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/ibm-rag-and-agentic-ai",
+      "title": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants",
+      "raw_content": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "https://www.coursera.org/specializations/introduction-to-generative-ai",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    },
+    {
+      "url": "https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2",
+      "title": "Machine Learning in Production",
+      "raw_content": "Machine Learning in Production | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/specializations/machine-learning-introduction",
+      "title": "Machine Learning",
+      "raw_content": "Machine Learning | Coursera\n\n===============\n..."
+    },
+    {
+      "url": "http://www.coursera.org/learn/retrieval-augmented-generation-rag",
+      "title": "Retrieval Augmented Generation (RAG)",
+      "raw_content": "Retrieval Augmented Generation (RAG) | Coursera\n\n===============\n..."
+    }
+  ],
+  "failed_results": [],
+  "topic": null
+}

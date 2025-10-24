@@ -1,0 +1,5 @@
+AI Engineering: Building Applications with Foundation Models	http://www.amazon.com/dp/1098166302
+Designing Machine Learning Systems	http://www.oreilly.com/library/view/designing-machine-learning/9781098107956
+Grokking Machine Learning - Luis G. Serrano	https://www.manning.com/books/grokking-machine-learning
+Hands-On Large Language Models	https://www.oreilly.com/library/view/hands-on-large-language/9781098150952
+LLMs in Production: From language models to successful products	http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205

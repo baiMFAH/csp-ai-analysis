@@ -1,0 +1,445 @@
+{
+  "https://www.manning.com/books/llms-in-production": [
+    {
+      "source_file": "book_llms_in_production.json",
+      "title": "LLMs in Production - Christopher Brousseau and Matthew Sharp",
+      "raw_content": "![manning logo black](/assets/manningLogoBlack-4ce2f7a38da67c986590975d7769f389.svg)\n![manning letters](/assets/manningLettersBlack-0ebe3f78d807742e74e80ce85f130096.svg)\n![](https://images.manning.com/banner/9/db965e3-4e3d-4bb8-ad09-07626557b6ae/bannersave45mobile.svg)\n![](https://images.manning.com/banner/f/502f07d-30c3-4dc4-b6a6-f22d513423bc/bannersave45emails.svg)\n![](https://images.manning.com/banner/dotd/dotd_mobile.svg)\n![](https://images.manning.com/banner/dotd/dotd_desktop.svg)\n![](https://images.manning.com/264/352/resize/book/f/6b35202-405c-4d81-a380-f6fe9dc3610d/Brousseau-HI.png)\n`audio`\n![](/assets/yt-full-color-93170e5eb777720960367e48be95c53d.svg)\n![](/assets/liveproject-learn-by-doing-close-btn-aadae662578aa33fd8fd3bfc17b48e53.svg)\n\n# LLMs in Production\n\n### pro $24.99 per month\n\n### lite $19.99 per month\n\n### team\n\n5, 10 or 20 seats+ for your team - [learn more](/subscription#add-to-cart-section--corporate-plans)\n\n### pro $24.99 per month\n\n### lite $19.99 per month\n\n### team\n\n5, 10 or 20 seats+ for your team - [learn more](/subscription#add-to-cart-section--corporate-plans)\n\n![](https://images.manning.com/264/352/resize/book/f/6b35202-405c-4d81-a380-f6fe9dc3610d/Brousseau-HI.png)\n\n## about the technology\n\n## about the book\n\n## Frequently Asked Questions\n\nChoosing between building or buying an LLM solution involves weighing the strengths of open source models and frameworks against the convenience and speed of third-party APIs.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-1)\n\nHigh-quality data collection, cleaning, and preparation are foundational for effective LLM training and fine-tuning, directly influencing model performance.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-4)\n\nPrompt engineering is the process of designing and refining prompts to guide LLMs toward consistent, meaningful outputs without retraining the model.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-7)\n\nEffective prompts often include clear instructions, relevant context, and examples, and may leverage tools like LangChain or Guidance for structured outputs.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-7)\n\nLLM agents can be built to interact with external tools such as search engines or APIs, enabling them to perform complex tasks autonomously.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-8)\n\nDeploying LLMs on edge devices requires memory-saving techniques and quantization, offering practical insights for running AI in resource-constrained environments.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-11)\n\nKnowledge graphs are emerging as a powerful alternative to vector databases for RAG, offering long-term benefits for organizing and retrieving proprietary data.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-12)\n\nKnowledge editing allows direct updates, insertions, or deletions of facts in LLMs without retraining, using tools like EasyEdit and techniques such as ROME and MEND.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-12)\n\nRecent advances have enabled million-token context windows and larger models, driven by innovations like RoPE, YaRN, and Hyena.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-12)\n\nEvolving regulations, legal liability, and copyright lawsuits are increasingly influencing how LLM products are developed and deployed.\n[[1]](https://livebook.manning.com/book/llms-in-production/chapter-12)\n\n## what's inside\n\n## about the reader\n\n## about the authors\n\n### pro $24.99 per month\n\n### lite $19.99 per month\n\n### team\n\n5, 10 or 20 seats+ for your team - [learn more](/subscription#add-to-cart-section--corporate-plans)\n\nCovers all the essential aspects of how to build and deploy LLMs. It goes into the deep and fascinating areas that most other books gloss over.\n\nA must-read for anyone looking to harness the potential of LLMs in production environments.\n\nAn exceptional guide that simplifies the building and deployment of complex LLMs.\n\nA thorough and practical guide for running LLMs in production.\n\n## related titles\n\n...\n"
+    }
+  ],
+  "http://www.oreilly.com/library/view/designing-machine-learning/9781098107956": [
+    {
+      "source_file": "books_chunk.json",
+      "title": "Designing Machine Learning Systems",
+      "raw_content": "Designing Machine Learning Systems [Book]\n\n===============\n[Skip to Content](http://www.oreilly.com/library/view/designing-machine-learning/9781098107956#main)\n\n*   [For Enterprise](https://www.oreilly.com/online-learning/teams.html)\n*   [For Government](https://www.oreilly.com/online-learning/government.html)\n*   [For Higher Ed](https://www.oreilly.com/online-learning/academic.html)\n*   [For Individuals](https://www.oreilly.com/online-learning/individuals.html)\n*   [For Marketing](https://www.oreilly.com/content-marketing-solutions.html)\n\n...\n"
+    }
+  ],
+  "https://www.manning.com/books/grokking-machine-learning": [
+    {
+      "source_file": "books_chunk.json",
+      "title": "Grokking Machine Learning - Luis G. Serrano - Manning Publications",
+      "raw_content": "[click to  \nlook inside\n\nLook inside](https://livebook.manning.com/book/grokking-machine-learning)\n[Slideshare: Want to Learn Machine Learning Inside Out?\nread this article now in  \nManning's Free Content Center](https://freecontent.manning.com/slideshare-want-to-learn-machine-learning-inside-out/)\n\n* ch 1 audio\n* video summary\n  first chapter summary\n\n...\n"
+    }
+  ],
+  "http://www.amazon.com/dp/1098166302": [
+    {
+      "source_file": "books_chunk.json",
+      "title": "AI Engineering: Building Applications with Foundation Models: Huyen, Chip: 9781098166304: Amazon.com: Books",
+      "raw_content": "![](//fls-na.amazon.com/1/batch/1/OP/ATVPDKIKX0DER:147-9057839-5090353:CGKP4NVQ1CZ1EEGDJ46C$uedata=s:%2Frd%2Fuedata%3Fstaticb%26id%3DCGKP4NVQ1CZ1EEGDJ46C:0)\n![](https://m.media-amazon.com/images/G/01/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB546805360_.png)\n\n...\n"
+    }
+  ],
+  "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952": [
+    {
+      "source_file": "books_chunk.json",
+      "title": "Hands-On Large Language Models [Book]",
+      "raw_content": "Hands-On Large Language Models [Book]\n\n===============\n[Skip to Content](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952#main)\n\n...\n"
+    }
+  ],
+  "http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205": [
+    {
+      "source_file": "books_chunk.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "https://www.coursera.org/specializations/machine-learning-introduction": [
+    {
+      "source_file": "course_machine_learning_specialization.json",
+      "title": "Machine Learning | Coursera",
+      "raw_content": "Machine Learning Specialization\n\n# Machine Learning Specialization\n\n#BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng\n\nInstructors: [Andrew Ng](/instructor/andrewng)\n\nTop Instructor\n\n[Andrew Ng](/instructor/andrewng)\n\nStanford University\n\n51 Courses\u20229,234,837 learners\n\nTop Instructor\n\n[Geoff Ladwig](/instructor/geoff-ladwig)\n\n6 Courses\u20221,120,484 learners\n\nTop Instructor\n\n[Aarti Bagul](/instructor/~77736236)\n\n6 Courses\u20221,120,484 learners\n\n[Eddy Shyu](/instructor/~170597538)\n\nDeepLearning.AI\n\n17 Courses\u20221,395,058 learners\n\nTop Instructor\n\n**705,160** already enrolled\n\n[3 course series](#courses)\n\nGet in-depth knowledge of a subject\n\n(36,104 reviews)\n\nBeginner level\n\nRecommended experience\n\n## Recommended experience\n\nBeginner level\n\n* Basic coding (for loops, functions, if/else statements) & high school-level math (arithmetic, algebra)\n* Other math concepts will be explained\n\n2 months to complete\n\nat 10 hours a week\n\nFlexible schedule\n\nLearn at your own pace\n\n---\n\n[3 course series](#courses)\n\nGet in-depth knowledge of a subject\n\n4.9\n\n(36,104 reviews)\n\nBeginner level\n\nRecommended experience\n\n## Recommended experience\n\nBeginner level\n\n* Basic coding (for loops, functions, if/else statements) & high school-level math (arithmetic, algebra)\n* Other math concepts will be explained\n\n2 months to complete\n\nat 10 hours a week\n\nFlexible schedule\n\nLearn at your own pace\n\n## What you'll learn\n\n* Build ML models with NumPy & scikit-learn, build & train supervised models for prediction & binary classification tasks (linear, logistic regression)\n* Build & train a neural network with TensorFlow to perform multi-class classification, & build & use decision trees & tree ensemble methods\n* Apply best practices for ML development & use unsupervised learning techniques for unsupervised learning including clustering & anomaly detection\n* Build recommender systems with a collaborative filtering approach & a content-based deep learning method & build a deep reinforcement learning model\n\n## Skills you'll gain\n\n* [Supervised Learning](https://www.coursera.org/courses?query=supervised%20learning)\n* [Random Forest Algorithm](https://www.coursera.org/courses?query=random%20forest%20algorithm)\n* [Decision Tree Learning](https://www.coursera.org/courses?query=decision%20tree%20learning)\n* [Predictive Modeling](https://www.coursera.org/courses?query=predictive%20modeling)\n* [Feature Engineering](https://www.coursera.org/courses?query=feature%20engineering)\n* [NumPy](https://www.coursera.org/courses?query=numpy)\n* [Unsupervised Learning](https://www.coursera.org/courses?query=unsupervised%20learning)\n* [Reinforcement Learning](https://www.coursera.org/courses?query=reinforcement%20learning)\n* [Artificial Intelligence and Machine Learning (AI/ML)](https://www.coursera.org/courses?query=artificial%20intelligence%20and%20machine%20learning%20(ai%2Fml))\n* [Scikit Learn (Machine Learning Library)](https://www.coursera.org/courses?query=scikit%20learn%20(machine%20learning%20library))\n* [Python Programming](https://www.coursera.org/courses?query=python%20programming)\n* [Machine Learning](https://www.coursera.org/courses?query=machine%20learning)\n* [Applied Machine Learning](https://www.coursera.org/courses?query=applied%20machine%20learning)\n* [Data Ethics](https://www.coursera.org/courses?query=data%20ethics)\n* [Deep Learning](https://www.coursera.org/courses?query=deep%20learning)\n* [Responsible AI](https://www.coursera.org/courses?query=responsible%20ai)\n* [Classification And Regression Tree (CART)](https://www.coursera.org/courses?query=classification%20and%20regression%20tree%20(cart))\n* [Jupyter](https://www.coursera.org/courses?query=jupyter)\n* [Artificial Intelligence](https://www.coursera.org/courses?query=artificial%20intelligence)\n* [Tensorflow](https://www.coursera.org/courses?query=tensorflow)\n\n## Details to know\n\nShareable certificate\n\nAdd to your LinkedIn profile\n\nTaught in English\n\n# See how employees at top companies are mastering in-demand skills\n\n[Learn more about Coursera for Business](/business?utm_medium=coursera&utm_source=xdp&utm_campaign=website&utm_content=c4b-xdp-thin-card&utm_term=out)\n\n## Specialization - 3 course series\n\nThe Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications.\u00a0\n\nThis Specialization is taught by Andrew Ng, an AI visionary who has led critical research at Stanford University and groundbreaking work at Google Brain, Baidu, and Landing.AI to advance the AI field.\n\nThis 3-course Specialization is an updated version of Andrew\u2019s pioneering Machine Learning course, rated 4.9 out of 5 and taken by over 4.8 million learners since it launched in 2012.\u00a0\n\nIt provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)\n\nBy the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you\u2019re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.\n\nApplied Learning Project\n\nBy the end of this Specialization, you will be ready to:\n...\n"
+    }
+  ],
+  "https://www.deeplearning.ai/events/upcoming/": [
+    {
+      "source_file": "event_ai_dev25.json",
+      "title": "Upcoming Events",
+      "raw_content": "Upcoming Events - DeepLearning.AI\n\n===============\n\n\u2728 New course! Enroll in[Governing Data Agents](https://bit.ly/4qk9ZjY)\n\n[](https://www.deeplearning.ai/)\n\n*   [Explore Courses](https://www.deeplearning.ai/courses/)\n*   [AI Newsletter](https://www.deeplearning.ai/the-batch/)\n    *   [The Batch](https://www.deeplearning.ai/the-batch/)\n    *   [Andrew's Letter](https://www.deeplearning.ai/the-batch/tag/letters/)\n    *   [Data Points](https://www.deeplearning.ai/the-batch/tag/data-points/)\n    *   [ML Research](https://www.deeplearning.ai/the-batch/tag/research/)\n    *   [Blog](https://www.deeplearning.ai/blog/)\n\n*   [\u2728 AI Dev x NYC](https://ai-dev.deeplearning.ai/)\n*   [Community](https://www.deeplearning.ai/community/)\n    *   [Forum](https://community.deeplearning.ai/)\n    *   [Events](https://www.deeplearning.ai/events/)\n    *   [Ambassadors](https://www.deeplearning.ai/ambassador/)\n    *   [Ambassador Spotlight](https://www.deeplearning.ai/blog/category/ambassador-spotlight/)\n    *   [Resources](https://www.deeplearning.ai/resources/)\n\n*   [Company](https://www.deeplearning.ai/about/)\n    *   [About](https://www.deeplearning.ai/about/)\n    *   [Careers](https://www.deeplearning.ai/careers/)\n    *   [Contact](https://www.deeplearning.ai/contact/)\n\n[Start Learning](https://bit.ly/3RB9T8a)\n\nUpcoming Events\n===============\n\n### Pie & AI: Manila - AI Hive's leMNL Vibe Hack 2.0, AI and Data Hackathon\n\nOctober 25, 2025\nA hackathon to build Agentic AI Applications and AI-ready Datasets.\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-manila-ai-hives-lemnl-vibe-hack-20-ai-and-data-hackathon-tickets-1838801327269)\n### Pie & AI: Ulaanbaatar\n\nOctober 26, 2025\nAn engaging seminar exploring the foundations, philosophy, and real-world applications of AI in business to drive innovation and efficiency.\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-ulaanbaatar-tickets-1838794567049)\n### Pie & AI: Manila - Philippine AI Report Executive Roundtable\n\nOctober 28, 2025\nAn invitation-only event for senior executives, offering peer-to-peer networking and a roundtable discussion over dinner to discuss results\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-manila-philippine-ai-report-executive-roundtable-tickets-1838866853259)\n### Pie & AI: Singapore-Red Hat Open Innovations Labs\n\nOctober 30, 2025\nA fireside session with Oliver M. Senti on how open innovation, human-centered design, and responsible AI practices are transforming ideas\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-singapore-red-hat-open-innovations-labs-tickets-1838940503549)\n### Pie & AI: Krakow - Building software\n\nOctober 30, 2025\nLet's talk how you are using AI to build software. This is a partnered event to the TechOn conference in the ICE Congress Center.\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-krakow-building-software-tickets-1708820079859)\n### Pie & AI: KL - Ugly Backend, Scary Code\n\nOctober 31, 2025\nAI Salon KL x Build Club Malaysia Halloween Party\n\nLearn more\n\n[](https://www.eventbrite.com/e/pie-ai-kl-ugly-backend-scary-code-tickets-1838894355519)\n### AI Dev 25 x NYC - The AI Developer Conference\n\nNovember 14, 2025\nJoin us for a day of coding, learning, and connecting to build AI applications with your fellow developers!\n\nLearn more\n\n[](https://www.eventbrite.com/e/ai-dev-25-x-nyc-the-ai-developer-conference-tickets-1583028543989)\n\n*   [Courses](https://www.deeplearning.ai/courses/)\n*   [The Batch](https://www.deeplearning.ai/the-batch/)\n*   [Community](https://www.deeplearning.ai/community/)\n*   [Careers](https://www.deeplearning.ai/careers/)\n*   [About](https://www.deeplearning.ai/about/)\n\n[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](https://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)"
+    }
+  ],
+  "https://raihankalla.id/stars": [
+    {
+      "source_file": "repo_prompt_eng_tutorial.json",
+      "title": "Starred Repos - Al Harkan's Blog",
+      "raw_content": "# My 292 Starred Repositories\n\nA curated list of starred GitHub repositories.\n\n---\n\n[The Developer Platform for Modern APIs](https://github.com/unkeyed/unkey)[\ud83e\udd16 Crear Chatbot WhatsApp en minutos. \u00danete a este proyecto OpenSource](https://github.com/codigoencasa/builderbot)[A tool for the creation and visualization of citation networks which combines citation data obtained from parsing the paper's PDF files and querying bibliographic APIs.](https://github.com/FZJ-IEK3-VSA/citation-graph-builder)[Literature Review Made Easy with Visualization](https://github.com/poloclub/argo-scholar)[Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.](https://github.com/bytebot-ai/bytebot)[The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.](https://github.com/bytedance/UI-TARS-desktop)[LLM agents built for control. Designed for real-world use. Deployed in minutes.](https://github.com/emcie-co/parlant)[\ud83d\udd25 Clone and recreate any website as a modern React app in seconds](https://github.com/firecrawl/open-lovable)[No description provided.](https://github.com/magenta/magenta-realtime)[Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.](https://github.com/Richard9394/MingCute)[Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.](https://github.com/apple/embedding-atlas)[A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.](https://github.com/legions-developer/evilcharts)[Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.](https://github.com/vercel/examples)[An Open Source implementation of Notebook LM with more flexibility and features](https://github.com/lfnovo/open-notebook)[No description provided.](https://github.com/langchain-ai/deepagents)[Multilingual Document Layout Parsing in a Single Vision-Language Model](https://github.com/rednote-hilab/dots.ocr)[VLLM Port of the Chatterbox TTS model](https://github.com/randombk/chatterbox-vllm)[A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.](https://github.com/google/langextract)[User-friendly AI Interface (Supports Ollama, OpenAI API, ...)](https://github.com/open-webui/open-webui)[Open source and self-hostable browser automation library for AI agents](https://github.com/browserable/browserable)[This repository contains a curated collection of 300+ case studies from over 80 companies, detailing practical applications and insights into machine learning (ML) system design. The contents are organized to help you easily find relevant case studies based on industry or specific ML use cases.](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)[Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.](https://github.com/srbhr/Resume-Matcher)[OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that looks great on any device.](https://github.com/BlackHatDevX/openspot-music-app)[Cursor for design - Open Source](https://github.com/superdesigndev/superdesign)[A visual no-code theme editor for shadcn/ui components](https://github.com/jnsahaj/tweakcn)[\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)[Kanban board to manage your AI coding agents](https://github.com/BloopAI/vibe-kanban)[Kimi K2 is the large language model series developed by Moonshot AI team](https://github.com/MoonshotAI/Kimi-K2)[Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)](https://github.com/dtyq/magic)[Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.](https://github.com/aaronjmars/opendia)[\ud83d\udd77\ufe0f An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!](https://github.com/D4Vinci/Scrapling)[Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.](https://github.com/hangwin/mcp-chrome)[Trae Agent is an LLM-based agent for general purpose software engineering tasks.](https://github.com/bytedance/trae-agent)[Digital Mind Extension](https://github.com/pickle-com/glass)[A curated list of free courses with certifications. Also available at https://free-certifications.com/](https://github.com/cloudcommunity/Free-Certifications)[The open-source CapCut alternative](https://github.com/OpenCut-app/OpenCut)[The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.](https://github.com/Textualize/textual)[Rich is a Python library for rich text and beautiful formatting in the terminal.](https://github.com/Textualize/rich)[No description provided.](https://github.com/adrianhorning08/n8n-nodes-scrape-creators)[This is a repo with links to everything you'd ever want to learn about data engineering](https://github.com/DataExpert-io/data-engineer-handbook)[JavaScript animation engine\n\nJavaScript   63357   4236](https://github.com/juliangarnier/anime)[HandsOnLLM/Hands-On-Large-Language-Models\n\nOfficial code repo for the O'Reilly Book - \"Hands-On Large Language Models\"\n\nJupyter Notebook   14215   3363](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)[Canner/WrenAI\n\n\u26a1\ufe0f GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.\n\nTypeScript   9933   1014](https://github.com/Canner/WrenAI)[NirDiamant/agents-towards-production\n\nThis repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.\n\nJupyter Notebook   10971   1385](https://github.com/NirDiamant/agents-towards-production)[typesense/typesense\n\nOpen Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences\n\nC++   24202   802](https://github.com/typesense/typesense)[sst/opencode\n\nAI coding agent, built for the terminal.\n\nGo   20699   1387](https://github.com/sst/opencode)[DataTalksClub/data-engineering-zoomcamp\n\nData Engineering Zoomcamp is a free nine-week course that covers the fundamentals of data engineering.\n\nJupyter Notebook   32457   6884](https://github.com/DataTalksClub/data-engineering-zoomcamp)[infiniflow/ragflow\n\nRAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.\n\nTypeScript   62933   6487](https://github.com/infiniflow/ragflow)[sindresorhus/awesome\n\n\ud83d\ude0e Awesome lists about all kinds of interesting topics\n\n394372   31321](https://github.com/sindresorhus/awesome)[josephmisiti/awesome-machine-learning\n\nA curated list of awesome Machine Learning frameworks, libraries and software.\n\nPython   69423   15056](https://github.com/josephmisiti/awesome-machine-learning)[f/mcptools\n\nA command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.\n\nGo   1178   81](https://github.com/f/mcptools)[google-gemini/gemini-fullstack-langgraph-quickstart\n\nGet started with building Fullstack Agents using Gemini 2.5 and LangGraph\n\nJupyter Notebook   16509   2769](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)[Zackriya-Solutions/meeting-minutes\n\nA free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/ is meetly ai\n\nC++   7128   540](https://github.com/Zackriya-Solutions/meeting-minutes)[marp-team/marp\n\nThe entrance repository of Markdown presentation ecosystem\n\nTypeScript   9447   187](https://github.com/marp-team/marp)[supermemoryai/supermemory-mcp\n\nYour memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.\n\nTypeScript   1226   117](https://github.com/supermemoryai/supermemory-mcp)[llmkit-ai/llmkit\n\nA prompt management, versioning, testing, and evaluation inference server and UI toolkit. Provider agnostic and OpenAI API compatible.\n\nRust   114   19](https://github.com/llmkit-ai/llmkit)[Olow304/memvid\n\nVideo-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.\n\nPython   8300   701](https://github.com/Olow304/memvid)[ashwwwin/automation-mcp\n\nControl your Mac with detailed mouse, keyboard, screen, and window management capabilities.\n\nTypeScript   309   28](https://github.com/ashwwwin/automation-mcp)[onlook-dev/onlook\n\nThe Cursor for Designers \u2022 An Open-Source AI-First Design tool \u2022 Visually build, style, and edit your React App with AI\n\nTypeScript   21569   1489](https://github.com/onlook-dev/onlook)[kovrichard/catalyst\n\nNext.js Starter Kit\n\nTypeScript   409   33](https://github.com/kovrichard/catalyst)[l-portet/tiktok-warmup-bot\n\n\u2668\ufe0f Warming up TikTok accounts, one swipe at a time\n\nJavaScript   557   108](https://github.com/l-portet/tiktok-warmup-bot)[The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge\n\nPocket Flow: Codebase to Tutorial\n\nPython   11310   1270](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)[firecrawl/firesearch\n\n\ud83d\udd25 AI-powered deep research tool that breaks down complex queries, validates answers, and provides cited comprehensive results using Firecrawl and LangGraph\n\nTypeScript   346   60](https://github.com/firecrawl/firesearch)[anthropics/prompt-eng-interactive-tutorial\n\nAnthropic's Interactive Prompt Engineering Tutorial\n\nJupyter Notebook   17662   1741](https://github.com/anthropics/prompt-eng-interactive-tutorial)..."
+    }
+  ],
+  "https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "AI Agents in LangGraph - DeepLearning.AI",
+      "raw_content": "## Manage Your Learning Plan\n\nMonthlyYearly\n\n## Change Your Plan\n\nYour subscription plan will change at the end of your current billing period. You\u2019ll continue to have access to your current plan until then.\n\n## Welcome back!\n\nHi ,\n\nWe'd like to know you better so we can create more relevant courses. What do you do for work?\n\n* [Explore Courses](/)\n* Community\n\n  + [Forum](https://bit.ly/3yMNOww)\n  + [Events](https://www.deeplearning.ai/events/)\n  + [Ambassadors](https://www.deeplearning.ai/ambassador/)\n  + [Ambassador Spotlight](https://www.deeplearning.ai/blog/category/ambassador-spotlight/)\n* [My Learnings](/my/learnings)\n\nWelcome to AI Agents and LangGraph. Built in partnership with LangChain and Tivoli. Taught by Harrison Chase, co-founder and CEO of LangChain, as well as Rotem Weiss who is the co-founder and CEO of Tavily. Harrison, it was not quite a year ago that we're working on our first course on LLM frameworks. And back, then we had an ancient example, but, you know, it was a little bit of a struggle to get it to work. Since then, I've seen many teams successfully build AI agents. What was your view on that? Yeah, that's exactly right, Andrew. We've seen many people successfully building agentic applications now, and I think there were a couple of key improvements over the last year. First, function calling LLMs have made tool use much more predictable and stable. And also specific tools like search have been adapted for agentic use. Yes. If you think about it, when you do a query on a search engine, it will return multiple links that you can then follow to find answers. However, what an agent really wants are answered that you can then reference to the link. Also, the agent needs predictable formats for its results. This is exactly what Agentic Search provides. That makes sense. And by the way, I'm personally a user of LangChain and Tavily. And the reason for being excited is of both of you here. And let me start by describing agents and agentic workflows. let's say that the three of us are going to write a paper together. Maybe I would start with some planning and try to put together an initial outline of the paper. Yeah. And I can take it from there and do some research, maybe run some queries and compile documents related to our topic. Okay, I guess that leaves me to write the first draft. I hope it's not a long paper. Yeah, yeah. Short paper. Hopefully. And then after that, I might veto the paper. Try to make some constructive suggestions and hand it back to Harrison to see if he wants to make some changes or to Rotem to see if he wants to do some more research. and so on. And this would be an example of an agentic or an agent like workflow, in which we iterate to produce a work product. And, in contrast to how people often use LLMs to write essays today, which is served by the prompt and the, write the essay for the first work to the last word in one shot. This type of iterative workflow gives a much better work product. In fact, as a person, I don't write that well. If you force me to just write from start to finish with no backspacing allowed. So concretely, you can similarly prompt an LLM to tell it to write an outline, prompt an LLM to write a draft or revise prompt an LLM to do research and so on. But to dive a bit deeper, let me share what I think are some of the key design patterns of agentic workflows. First, I think there's planning, which is thinking through the steps to take like the outline and what to do after that. Then tool use. Knowing what tools are available and how to use them, like our search tool. Reflection, which refers to iteratively improve a result, possibly with multiple LLMs critiquing and making useful suggestions to drive that type of editing cycle. Multi-agent communication. So you can think of each of us as playing a role again to an LLM with a unique prompt to play a unique role in this process. And then memory, that is tracking the progress and results over the multiple steps. Now, some of these capabilities are related to the LLM itself, like function calling for tool use. But many of these capabilities are actually implemented outside the LLM by the framework that they operate in. Exactly. And the LangChain framework has had many of these elements for some time. Memory is available in multiple forms. Supporting function calling, LLMs and tool execution are available. And we talked about this in the last DeepLearning class we did, functions tools and Agents course. But LangChain has recently updated its support for agentic workflows. Here's some examples of agents that we now better support. So, ReAct agents was an early paradigm for building agents, and ReAct stands for reasoning and action. Another example that we recently added support for is the example presented in the Self Refine paper, where it does the iterative refinement that you were talking about. And most recently, you can see the alpha coding example. Which creates a coding agent using flow engineering. And from all these diagrams you can see that these agents and their behavior is defined by a cyclical graph. And to support directly building agents like this, LangChain has extended to support LangGraph. In this course, you will start by building an agent from scratch with just an LLM and Python. Then, you'll learn about the components of LangGraph by rebuilding that same agent using the LangGraph components directly. Since search tools are such an important part of many agent applications, you will learn the capabilities of agentic search and how to use it. There are two additional capabilities that are helpful when building agents. First, is being able to receive human input. This allows you to guide an agent at critical points. The second is persistence. This is the ability to store the current state of information so that you can return to it later. This is great for both debugging agents and for productionalizing them. We will build a project using LangGraph, but you'll have to reach the last lesson to figure out what it is. And at the end, I'll describe some of the cool applications and future directions I see for this technology. Many people have worked to create this course from LangChain. I'd like to thank Lance Martin and Nuno Campos. From Tavily, Assaf Elovic And from DeepLearning.AI. Geoff Ladwig. All right. We don't want to keep those agents waiting. Let's go on to the next video to get started.\n\n[course detail](/courses/ai-agents-in-langgraph/information)\n\n[Next Lesson](/courses/ai-agents-in-langgraph/lesson/c1l2c/build-an-agent-from-scratch)\n\nAI Agents in LangGraph\n\n[* Introduction\n\n  Video\n\n  \u30fb\n\n  6 mins](/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction)[* Build an Agent from Scratch\n\n  Video with Code Example\n\n  \u30fb\n\n  12 mins](/courses/ai-agents-in-langgraph/lesson/c1l2c/build-an-agent-from-scratch)[* LangGraph Components\n\n  Video with Code Example\n\n  \u30fb\n\n  19 mins](/courses/ai-agents-in-langgraph/lesson/l7rgk/langgraph-components)[* Agentic Search Tools\n\n  Video with Code Example\n\n  \u30fb\n\n  5 mins](/courses/ai-agents-in-langgraph/lesson/oj6p9/agentic-search-tools)[* Persistence and Streaming\n\n  Video with Code Example\n\n  \u30fb\n\n  9 mins](/courses/ai-agents-in-langgraph/lesson/nj9ok/persistence-and-streaming)[* Human in the loop\n\n  Video with Code Example\n\n  \u30fb\n\n  14 mins](/courses/ai-agents-in-langgraph/lesson/k87e1/human-in-the-loop)[* Essay Writer\n\n  Video with Code Example\n\n  \u30fb\n\n  18 mins](/courses/ai-agents-in-langgraph/lesson/m0x4m/essay-writer)[* LangChain Resources\n\n  Video\n\n  \u30fb\n\n  2 mins](/courses/ai-agents-in-langgraph/lesson/kyxeg/langchain-resources)[* Video\n\n  \u30fb\n\n  4 mins](/courses/ai-agents-in-langgraph/lesson/b43j5/conclusion)\n\n\n\nCourse Info\n\nQuick Guide & Tips"
+    }
+  ],
+  "https://anthropic.skilljar.com/ai-fluency-framework-foundations": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "AI Fluency: Framework & Foundations - Anthropic Courses",
+      "raw_content": "# AI Fluency: Framework & Foundations\n\nLearn to collaborate with AI systems effectively, efficiently, ethically, and safely\n\n[Enroll in Course](https://anthropic.skilljar.com/checkout/17mii0ye0vhrr)\nFREE\n\nAlready registered? [Sign In](/auth/login?next=%2Fai-fluency-framework-foundations)\n\n[Share on X](#)\n[Share on LinkedIn](#)\n\n14\nlectures\n\n1.1\nhours of video\n\n1\nquiz\n\n\u2713\nCertificate of completion\n\n## About this course\n\nAt Anthropic, we believe that empowering people with AI, and ensuring that AI makes safe contributions to society, requires engaging with a wide range of human perspectives and experiences. Responsible AI development and engagement isn't something any single discipline or viewpoint can fully address. It demands collaborative approaches that span a wide range of technical, creative, business, scientific, and educational domains. That's why we partnered with educators who bring complementary expertise to create this foundational course on AI collaboration.\n\nThis course is the result of a long partnership between Anthropic and professors Rick Dakan from Ringling College of Art and Design and Joseph Feller from University College Cork. Rick and Joe developed the AI Fluency Framework in 2023-2024, based on their research exploring how AI tools like Claude were transforming creative and business processes. When we saw the framework, we immediately recognized a shared vision: helping people interact with AI effectively and responsibly, beyond just \u201ccool prompts.\u201d Their framework offered exactly the kind of multidisciplinary perspective we believe is essential for navigating AI\u2019s impact on society.\n\nThe AI Fluency Framework they created \u2014 four interconnected competencies (Delegation, Description, Discernment, and Diligence) \u2014 enables more effective, efficient, ethical, and safe human-AI collaboration, regardless of which new AI models or tools emerge. We collaborated to develop this course based on their framework, bringing together our collective expertise in AI systems, education, creativity, and business innovation. The work was supported in part by the Higher Education Authority (Ireland) through the National Forum for the Enhancement of Teaching and Learning.\n\nThis framework has already informed undergraduate and postgraduate courses at both Ringling College and University College Cork, as well as staff training initiatives and community outreach events. Now, we\u2019re excited to share these insights more broadly through this open online course.\n\nOur goal is to make AI Fluency accessible and useful to everyone, no matter what stage of AI expertise you find yourself at. We hope you find it valuable in navigating the evolving landscape of AI collaboration.\n\n## Course sections\n\n### AI Fundamentals & Framework\n\n10 lessons\n\nEstablish foundational understanding of generative AI systems and why developing AI fluency matters for effective collaboration. Introduces the 4D Framework as a structured approach to human-AI interaction, covering core capabilities and limitations of current AI technologies. Provides the conceptual grounding needed to approach AI tools strategically rather than reactively.\n\nCourse preview images\n\n### Practical AI Skills\n\n10 lessons\n\nDevelop hands-on competencies for effective AI collaboration through the four core areas of the framework: delegation, description, discernment, and diligence. Learn systematic approaches to project planning with AI, crafting effective prompts, evaluating outputs critically, and iterating through the description-discernment loop. Emphasizes practical application across creative, business, and educational contexts.\n\nCourse preview images\n\n## About the instructors\n\n### Drew Bent\n\nDrew leads education research at Anthropic. He previously co-founded the tutoring non-profit Schoolhouse.world with Sal Khan, which he ran from 2020-24 and now sits on the board. Prior to that, he wrote code at Khan Academy, taught high school math, and has been tutoring students for over a decade. Drew has degrees in physics & CS from MIT, and an education master's from Stanford.\n\n### Rick Dakan\n\nRick is the AI Coordinator and a professor at Ringling College of Art and Design in Sarasota, Florida where he teaches creative writing, interactive experience design, and AI courses. He also oversees the college's *Undergraduate Certificate in Artificial Intelligence* and the *Professional Certificate in Fundamentals of AI for Creatives*. He is a game designer and author of more than thirty games and books from video games and tabletop games to novels, nonfiction, and comics.\n\n### Joseph Feller\n\nJoseph is *Professor of Information Systems and Digital Transformation* at the Cork University Business School, University College Cork, Ireland. His current work focuses on AI-human hybrid creativity, innovation, and learning. His research has been published in *Information Systems Research*, *Journal of MIS*, *Journal of the AIS*, *Journal of Information Technology*, *Information Systems Journal*, *European Journal of Information Systems*, and *Journal of Strategic Information Systems*, and has been funded by the European Commission, Irish Research Council, Irish HEA, and other funding bodies.\n\n### Maggie Vo\n\nMaggie founded and leads Anthropic's education team. She has a varied applied research background from Harvard University, with a career and education that spans fields such as game design, organizational behavior, tech and consumer goods, and human behavioral psychology. Maggie has held previous roles at top consulting firms and innovative startups alike. Prior to Anthropic, she worked in AI strategy consulting.\n\n## AI diligence statement\n\nIn the development of the AI Fluency: Framework and Foundations course, we engaged in extensive collaboration with Claude 3.7 from Anthropic.\n\nThe base content for this course came from:\n\n* The AI Fluency Framework Practical Summary Document by Rick Dakan (at Ringling College of Art and Design) and Joseph Feller (at University College Cork) and related working documents and research notes\n* Slide decks and lecture transcripts from multiple university courses, guest lectures, and research talks delivered by Feller and/or Dakan\n* Technical/practical content provided by Maggie Vo and Drew Bent (Anthropic)\n\nThroughout this process, Claude assisted one or more of the human authors with structural development, resource and exercise design, and content drafting, critiquing, editing and rewriting. The human authors wrote, designed, edited and provided continual vision, expertise, critical judgment, and domain knowledge and made all final decisions about both content and approach.\n\nAll AI-generated and co-created content underwent thorough validation, editing, and curation by the human authors. The final materials accurately reflect the human authors' understanding, expertise, and intended pedagogical approach. While AI assistance was instrumental in producing these materials, the human authors maintain responsibility for the content.\n\nThis disclosure is made in the spirit of transparency advocated by the AI Fluency Framework and to acknowledge the evolving role of AI in educational content development and other creative and intellectual work.\n\n## Data and Privacy\n\nSkilljar is a learning management system that hosts our educational content. You're logging into it to access the Anthropic course materials. This separate platform allows us to provide interactive learning experiences, track your progress, and ensure you have access to all course resources in an organized way.\n\nSkilljar collects basic learning analytics such as course progress, lesson completion status, quiz scores, and time spent on materials. This data helps us understand how you're progressing through the course and allows us to provide you with completion certificates. All data collection is focused on improving your learning experience.\n\nSkilljar only tracks your learning progress within this course platform, while your Anthropic account manages your access to the Anthropic Console and/or Claude AI services.\n\nYes, Skilljar employs industry-standard security measures including data encryption, secure hosting, and regular security audits. Your learning data is stored on secure servers with appropriate access controls. Skilljar is SOC 2 compliant and follows best practices for data protection to ensure your information remains safe and private.\n\nYou can request deletion of your learning activity by emailing [education-support@anthropic.com](mailto:education-support@anthropic.com) or deletion of your entire Skilljar account by emailing [support@skilljar.com](mailto:support@skilljar.com). Your request will be processed in accordance with applicable privacy laws and our data retention policies. Note that some data may need to be retained for legitimate business purposes, such as compliance or security, but we'll delete all personal information where legally permissible.\n\nNo, you don't need an Anthropic account to access this learning content. The course is hosted on Skilljar and only requires a Skilljar account for access. However, if you want to use Claude AI services after completing the course, you would need to create a separate Anthropic account at claude.ai."
+    }
+  ],
+  "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Agentic AI - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## \ud83d\udcbb \u00a0 Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n**1:** \u00a0 Click on *\"File\"*\n\n**2:** \u00a0 Then, click on *\"Open\"*\n\nYou will be able to see all the notebook files for the lesson, including any helper functions used in the notebook on the left sidebar. See the following image for the steps above.\n\n![](https://assets.deeplearning.ai/imgs/Appendix-Tips-Help-and-Download/upload-file2.png)\n\n## \ud83d\udcbb \u00a0 Downloading Notebooks\n\n..."
+    }
+  ],
+  "https://anthropic.skilljar.com/claude-with-the-anthropic-api": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Building with the Claude API - Anthropic Courses",
+      "raw_content": "# Claude with the Anthropic API\n\nThis comprehensive course covers the full spectrum of working with Anthropic models using the Anthropic API\n\n..."
+    }
+  ],
+  "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "ChatGPT Prompt Engineering for Developers - DeepLearning.AI",
+      "raw_content": "## Welcome back!\n\nHi ,\n\nWe'd like to know you better so we can create more relevant courses. What do you do for work?\n\n..."
+    }
+  ],
+  "https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Claude Code: A Highly Agentic Coding Assistant",
+      "raw_content": "Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI\n\n===============\n\n\u2728 New course! Enroll in[Building Live Voice Agents with Google\u2019s ADK](https://bit.ly/491Hb9I)\n\n..."
+    }
+  ],
+  "https://www.deeplearning.ai/courses/generative-ai-for-software-development": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Generative AI for Software Development",
+      "raw_content": "Generative AI for Software Development - DeepLearning.AI\n\n===============\n\n\u2728 New course! Enroll in[Building Live Voice Agents with Google\u2019s ADK](https://bit.ly/491Hb9I)\n\n..."
+    }
+  ],
+  "https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "MCP: Build Rich-Context AI Apps with Anthropic - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## \ud83d\udcbb \u00a0 Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n..."
+    }
+  ],
+  "http://www.deeplearning.ai/courses/machine-learning-specialization": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Machine Learning Specialization",
+      "raw_content": "Machine Learning Specialization - DeepLearning.AI\n\n===============\n\n\u2728 New course! Enroll in[Building Live Voice Agents with Google\u2019s ADK](https://bit.ly/491Hb9I)\n\n..."
+    }
+  ],
+  "https://karpathy.ai/zero-to-hero.html": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Neural Networks: Zero To Hero - Karpathy",
+      "raw_content": "# Neural Networks: Zero to Hero\n\nA course by Andrej Karpathy on building neural networks, from scratch, in code.\n\n..."
+    }
+  ],
+  "https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Pair Programming with a Large Language Model - DeepLearning.AI",
+      "raw_content": "## Quick Guide & Tips\n\n## \ud83d\udcbb \u00a0 Accessing Utils File and Helper Functions\n\nIn each notebook on the top menu:\n\n..."
+    }
+  ],
+  "http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Reinforcement Fine-Tuning LLMs with GRPO",
+      "raw_content": "Reinforcement Fine-Tuning LLMs with GRPO - DeepLearning.AI\n\n===============\n\n\u2728 New course! Enroll in[Building Live Voice Agents with Google\u2019s ADK](https://bit.ly/491Hb9I)\n\n..."
+    }
+  ],
+  "https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Advanced Prompt Engineering for Everyone | Coursera",
+      "raw_content": "Advanced Prompt Engineering for Everyone\n\n# Advanced Prompt Engineering for Everyone\n\nThis course is part of [ChatGPT: Master Free AI Tools to Supercharge Productivity Specialization](/specializations/chatgpt-free-ai-tools-to-excel)\n\n..."
+    }
+  ],
+  "https://agenticai-learning.org/f25": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Agentic AI MOOC",
+      "raw_content": "Agentic AI\n\n===============\nagentic-ai-mooc\n\n===============\n..."
+    }
+  ],
+  "https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "ChatGPT Prompt Engineering for Developers (Short Course)",
+      "raw_content": "ChatGPT Prompt Engineering for Developers\n===============\n   \n\n*   [For Individuals](https://www.coursera.org/)\n..."
+    }
+  ],
+  "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Computer Science for Artificial Intelligence Professional Certificate",
+      "raw_content": "[edX For Business](https://business.edx.org)\n[Sign In](https://www.edx.org/auth/login)\n[Register for free](https://www.edx.org/auth/register)\n\n**Back-to-school savings \u2014 get up to 30% off** select programs until September 10. Use code **SKILLSEDX25**. [Learn more](https://www.edx.org/back-to-school).\n\n..."
+    }
+  ],
+  "https://www.coursera.org/specializations/generative-ai-for-software-developers": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Generative AI for Software Developers Specialization - Coursera",
+      "raw_content": "Generative AI for Software Developers Specialization\n\n# Generative AI for Software Developers Specialization\n\nBoost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ..."
+    }
+  ],
+  "https://www.coursera.org/learn/generative-ai-with-llms": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Generative AI with Large Language Models - Coursera",
+      "raw_content": "Generative AI with Large Language Models\n\n# Generative AI with Large Language Models\n\nInstructors: [Chris Fregly](/instructor/cfregly)\n\n..."
+    }
+  ],
+  "http://www.coursera.org/specializations/ai-essentials-google": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Google AI Essentials",
+      "raw_content": "Google AI Essentials | Coursera\n\n===============\n\n*   [For Individuals](https://www.coursera.org/)\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Google AI Essentials",
+      "raw_content": "Google AI Essentials | Coursera\n\n===============\n..."
+    }
+  ],
+  "https://www.coursera.org/specializations/prompting-essentials-google": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Google Prompting Essentials Specialization - Coursera",
+      "raw_content": "Google Prompting Essentials Specialization\n\n* [About](#about)\n* [Outcomes](#outcomes)\n* [Courses](#courses)\n* [Testimonials](#testimonials)\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Google Prompting Essentials Specialization - Coursera",
+      "raw_content": "Google Prompting Essentials Specialization\n\n* [About](#about)\n* [Outcomes](#outcomes)\n* [Courses](#courses)\n* [Testimonials](#testimonials)\n\n2. [Browse](/browse)\n3. [Data Science](/browse/data-science)\n4. [Machine Learning](/browse/data-science/machine-learning)\n\nThis Labor Day, enjoy $120 off Coursera Plus. Unlock access to 10,000+ programs. [Save today](https://www.coursera.org/courseraplus/special/august-2025-120-off?utm_medium=coursera&utm_source=bluebanner&utm_campaign=2025AugustTentpoleNAMER).\n\n# Google Prompting Essentials Specialization\n\nUnlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and specific prompts.\n\n..."
+    }
+  ],
+  "http://www.coursera.org/specializations/ibm-rag-and-agentic-ai": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants",
+      "raw_content": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants",
+      "raw_content": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera\n\n===============\n..."
+    }
+  ],
+  "https://www.coursera.org/specializations/introduction-to-generative-ai": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+      "raw_content": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera\n\n===============\n..."
+    }
+  ],
+  "http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    }
+  ],
+  "https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Machine Learning in Production",
+      "raw_content": "Machine Learning in Production | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Machine Learning in Production",
+      "raw_content": "Machine Learning in Production | Coursera\n\n===============\n..."
+    }
+  ],
+  "http://www.coursera.org/specializations/machine-learning-introduction": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Machine Learning",
+      "raw_content": "Machine Learning | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Machine Learning",
+      "raw_content": "Machine Learning | Coursera\n\n===============\n..."
+    }
+  ],
+  "http://www.coursera.org/learn/retrieval-augmented-generation-rag": [
+    {
+      "source_file": "structured_chunk1.json",
+      "title": "Retrieval Augmented Generation (RAG)",
+      "raw_content": "Retrieval Augmented Generation (RAG) | Coursera\n\n===============\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Retrieval Augmented Generation (RAG)",
+      "raw_content": "Retrieval Augmented Generation (RAG) | Coursera\n\n===============\n..."
+    }
+  ],
+  "https://developers.google.com/machine-learning/crash-course": [
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Machine Learning Crash Course - Google for Developers",
+      "raw_content": "* [# Machine Learning](https://developers.google.com/machine-learning)\n\n* English\n* Deutsch\n* Espa\u00f1ol\n* Fran\u00e7ais\n* Indonesia\n* Portugu\u00eas \u2013 Brasil\n* \u0420\u0443\u0441\u0441\u043a\u0438\u0439\n* \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n* \u4e2d\u6587 \u2013 \u7b80\u4f53\n* \u65e5\u672c\u8a9e\n* \ud55c\uad6d\uc5b4\n  Sign in\n\n \n\n\n* [Home](https://developers.google.com/)\n..."
+    },
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Machine Learning Crash Course - Google for Developers",
+      "raw_content": "* [# Machine Learning](https://developers.google.com/machine-learning)\n\n* English\n..."
+    }
+  ],
+  "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp": [
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "The AI Engineer Course 2025: Complete AI Engineer Bootcamp",
+      "raw_content": "The AI Engineer Course 2025: Complete AI Engineer Bootcamp | Udemy\n\n===============\n..."
+    }
+  ],
+  "http://www.udemy.com/course/the-complete-agentic-ai-engineering-course": [
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "The Complete Agentic AI Engineering Course (2025)",
+      "raw_content": "The Complete Agentic AI Engineering Course (2025) | Udemy\n\n===============\n..."
+    }
+  ],
+  "https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==": [
+    {
+      "source_file": "structured_chunk2.json",
+      "title": "Online Courses - Learn Anything, On Your Schedule | Udemy",
+      "raw_content": "Log in to continue your learning journey | Udemy\n\n===============\n..."
+    }
+  ],
+  "https://en.wikipedia.org/wiki/3Blue1Brown": [
+    {
+      "source_file": "videos_additional_3blue1brown.json",
+      "title": "3Blue1Brown",
+      "raw_content": "[Jump to content](#bodyContent)\n\n[Search](/wiki/Special:Search \"Search Wikipedia [f]\")\n\n## Contents\n\n* [(Top)](#)\n* [1 Grant Sanderson](#Grant_Sanderson)\n  + [1.1 Early life and education](#Early_life_and_education)\n  + [1.2 Career](#Career)\n* [2 Origin](#Origin)\n* [3 Videos, podcasts and other media](#Videos,_podcasts_and_other_media)\n* [4 Manim](#Manim)\n* [5 See also](#See_also)\n* [6 References](#References)\n* [7 Further reading](#Further_reading)\n* [8 External links](#External_links)\n\n# 3Blue1Brown\n\n* [\u09ac\u09be\u0982\u09b2\u09be](https://bn.wikipedia.org/wiki/%E0%A7%A9_%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A7%81_%E0%A7%A7_%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%89%E0%A6%A8 \"\u09e9 \u09ac\u09cd\u09b2\u09c1 \u09e7 \u09ac\u09cd\u09b0\u09be\u0989\u09a8 \u2013 Bangla\")\n* [Deutsch](https://de.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 German\")\n* [\u0641\u0627\u0631\u0633\u06cc](https://fa.wikipedia.org/wiki/%DB%B3%D8%A2%D8%A8%DB%8C%DB%B1%D9%82%D9%87%D9%88%D9%87%E2%80%8C%D8%A7%DB%8C \"\u06f3\u0622\u0628\u06cc\u06f1\u0642\u0647\u0648\u0647\u200c\u0627\u06cc \u2013 Persian\")\n* [Fran\u00e7ais](https://fr.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 French\")\n* [\ud55c\uad6d\uc5b4](https://ko.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Korean\")\n* [Bahasa Indonesia](https://id.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Indonesian\")\n* [\u05e2\u05d1\u05e8\u05d9\u05ea](https://he.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Hebrew\")\n* [Nederlands](https://nl.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Dutch\")\n* [\u65e5\u672c\u8a9e](https://ja.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Japanese\")\n* [Polski](https://pl.wikipedia.org/wiki/3blue1brown \"3blue1brown \u2013 Polish\")\n* [Portugu\u00eas](https://pt.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Portuguese\")\n* [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](https://ru.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Russian\")\n* [T\u00fcrk\u00e7e](https://tr.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Turkish\")\n* [\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](https://uk.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Ukrainian\")\n* [\u4e2d\u6587](https://zh.wikipedia.org/wiki/3Blue1Brown \"3Blue1Brown \u2013 Chinese\")\n\n[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q55345122#sitelinks-wikipedia \"Edit interlanguage links\")\n\n* [Article](/wiki/3Blue1Brown \"View the content page [c]\")\n* [Talk](/wiki/Talk:3Blue1Brown \"Discuss improvements to the content page [t]\")\n\n* [Read](/wiki/3Blue1Brown)\n* [Edit](/w/index.php?title=3Blue1Brown&action=edit \"Edit this page [e]\")\n* [View history](/w/index.php?title=3Blue1Brown&action=history \"Past revisions of this page [h]\")\n\n... (truncated)"
+    }
+  ],
+  "https://www.youtube.com/andrejkarpathy": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": "Andrej Karpathy - YouTube",
+      "raw_content": "Back\n\n[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fandrejkarpathy&hl=en&ec=65620)\n\n...\n"
+    }
+  ],
+  "https://www.youtube.com/@anthropic-ai": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": "Anthropic - YouTube",
+      "raw_content": "Anthropic - YouTube\n\n===============\n\n Back [![Image 1](https://www.youtube.com/@anthropic-ai)](https://www.youtube.com/ \"YouTube Home\")\n\n...\n"
+    }
+  ],
+  "https://www.youtube.com/@LangChain": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": "LangChain",
+      "raw_content": "LangChain - YouTube\n\n===============\n\n Back [![Image 1](https://www.youtube.com/@LangChain)](https://www.youtube.com/ \"YouTube Home\")\n\n...\n"
+    }
+  ],
+  "https://www.youtube.com/@t3dotgg": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": "Theo - t3\u2024gg - YouTube",
+      "raw_content": "Back\n\n[Sign in](https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F%2540t3dotgg&hl=en&ec=65620)\n\n...\n"
+    }
+  ],
+  "http://www.youtube.com/@BerkeleyRDI": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "http://www.youtube.com/c/3blue1brown": [
+    {
+      "source_file": "videos_chunk_part1.json",
+      "title": null,
+      "raw_content": null,
+      "failure": "Failed to fetch content"
+    }
+  ],
+  "https://journalclub.io/episodes": [
+    {
+      "source_file": "episode_archive_clientData.json",
+      "title": "The Episode Archive",
+      "raw_content": "Robotic Paper Wrapping by Learning Force Control: Now imagine trying to teach a robot to do the same thing. Every step, every move, every subtle nuance of the procedure. Suddenly, what seemed simple becomes a n...\nWell-Being of the Baltic Herring and Bycatch Fish Species from FAO Major Fishing Areas 27 According to Microplastic Pollution: They needed to dissolve the fish\u2019s biological tissues while preserving the plastic particles. They used a potassium hydroxide solution for that, a strong base t...\nSecure and efficient ownership verification for deduplicated cloud computing systems: When a new file is ingested, the server recognizes its digital fingerprint and says \"I already have that one\", no need to store another. Your storage quota stil...\nThe Mediating Effect of Social Connectedness in the Relationship Between K-Pop Fandom Identity and Mental Health: Does identifying as part of a K-Pop fandom make people feel happier and more satisfied with their lives? Does it help shield them from depression? And if those ...\nImproving test suite generation quality through machine learning-driven boundary value analysis: Let\u2019s say you\u2019re building a simple web app. A user can sign up or log in, do some stuff, and log off. Nothing fancy. Right now you\u2019re working on the signup form...\nUltrasound system for precise neuromodulation of human deep brain circuits: Imagine that you're a neurosurgeon, and you\u2019re trying to treat a patient with severe depression. Your target is a tiny brain structure buried deep in the skull,...\nFast and fair randomized wait-free locks: Imagine a group of philosophers seated around a table. There is one chopstick placed between each pair of people. Not a pair of chopsticks, just one stick. So i...\nInteroception and dissociation in migraine: a case-control study of chronic and episodic subtypes: The \u2018prediction error\u2019 concept is crucial to understanding today's research, so let's unpack it. Your brain is a prediction machine, it\u2019s constantly generating ...\nFault Injection Evaluation with Statistical Analysis: Imagine that you're working on a new chip. It\u2019s not a general-purpose processor, it\u2019s built for a specific purpose and use case: cryptography. It accelerates en...\nAssociation between shift work and brain age gap: a neuroimaging study using MRI-based brain age prediction algorithms: First, let's talk about what these researchers were actually measuring. The brain age \u201cgap\u201d is the difference between your chronological age and your \"predicted..."
+    }
+  ],
+  "https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb": [
+    {
+      "source_file": "anthropic_prompt_tutorial.txt",
+      "title": "Anthropic Prompt Engineering Tutorial",
+      "raw_content": "# Tutorial How-To\n\nThis tutorial **requires an API key** for interaction. If you don't have an API key, you can sign up for one via the [Anthropic Console](https://console.anthropic.com/) or view our [static tutorial answer key](https://docs.google.com/spreadsheets/u/0/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit) instead.## How to get started\n\n1. Clone this repository to your local machine.\n\n2. Install the required dependencies by running the following command:\n ```python%pip install anthropic```3. Set up your API key and model name. Replace `\"your_api_key_here\"` with your actual Anthropic API key.```pythonAPI_KEY = \"your_api_key_here\"\nMODEL_NAME = \"claude-3-haiku-20240307\"\n\n# Stores the API_KEY & MODEL_NAME variables for use across notebooks within the IPython store\n%store API_KEY\n%store MODEL_NAME```4. Run the notebook cells in order, following the instructions provided.---\n\n## Usage Notes & Tips \ud83d\udca1\n\n- This course uses Claude 3 Haiku with temperature 0. We will talk more about temperature later in the course. For now, it's enough to understand that these settings yield more deterministic results. All prompt engineering techniques in this course also apply to previous generation legacy Claude models such as Claude 2 and Claude Instant 1.2.\n\n- You can use `Shift + Enter` to execute the cell and move to the next one.\n\n- When you reach the bottom of a tutorial page, navigate to the next numbered file in the folder, or to the next numbered folder if you're finished with the content within that chapter file.\n\n### The Anthropic SDK & the Messages API\nWe will be using the [Anthropic python SDK](https://docs.anthropic.com/claude/reference/client-sdks) and the [Messages API](https://docs.anthropic.com/claude/reference/messages_post) throughout this tutorial. \n\nBelow is an example of what running a prompt will look like in this tutorial. First, we create `get_completion`, which is a helper function that sends a prompt to Claude and returns Claude's generated response. Run that cell now.```pythonimport anthropic\n\nclient = anthropic.Anthropic(api_key=API_KEY)\n\ndef get_completion(prompt: str):\n    message = client.messages.create(\n        model=MODEL_NAME,\n        max_tokens=2000,\n        temperature=0.0,\n        messages=[\n          {\"role\": \"user\", \"content\": prompt}\n        ]\n    )\n    return message.content[0].text```Now we will write out an example prompt for Claude and print Claude's output by running our `get_completion` helper function. Running the cell below will print out a response from Claude beneath it.\n\nFeel free to play around with the prompt string to elicit different responses from Claude.```python# Prompt\nprompt = \"Hello, Claude!\"\n\n# Get Claude's response\nprint(get_completion(prompt))```The `API_KEY` and `MODEL_NAME` variables defined earlier will be used throughout the tutorial. Just make sure to run the cells for each tutorial page from top to bottom."
+    }
+  ]
+}
