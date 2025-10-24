@@ -39,6 +39,16 @@
 - ML Production: 1
 - Mathematical Intuition: 1
 
+## External Review Signals
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) carries a 4.9/5 rating across 36,104 reviews with 705,160 learners enrolled, reinforcing its status as the go-to foundation for new practitioners.
+- [Machine Learning in Production](https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2) is rated 4.8/5 (3,318 reviews) and 98% of learners mark it “liked”, highlighting its practical value for MLOps readiness.
+- [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project) scores 4.7/5 from 1,518 reviews, with repeated praise for the guided Jupyter workflow and rapid API prototyping skills.
+- [Advanced Prompt Engineering for Everyone](https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone) earns 4.8/5 across 400 reviews—85% five-star—thanks to its deep dive on in-context learning, RAG failure modes, and templated outputs.
+- [Generative AI for Software Developers](https://www.coursera.org/specializations/generative-ai-for-software-developers) holds a 4.6/5 average from 358 reviews; learners call out its balance of prompt engineering theory and hands-on coding with Copilot, Gemini, and watsonx.
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) maintains a 4.8/5 customer score on Manning with 93% four- or five-star feedback, citing the high-school-math approach and project-based exercises.
+- [LLMs in Production](https://www.manning.com/books/llms-in-production) features expert testimonials positioning it as a “must-read” for real-world LLM deployment, adding qualitative reinforcement when paired with our course recommendations.
+- [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) is referenced in Anthropic’s enterprise case studies where teams reported a 70-hour weekly time savings and sub-quarter ROI, signalling strong adoption despite limited public rating data.
+
 ## Resource Detail Table
 | Title | Type | Topic | Summary | Tags | Score | Rationale | Evidence |
 | --- | --- | --- | --- | --- | --- | --- | --- |
