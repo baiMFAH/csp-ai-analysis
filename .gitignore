@@ -1,0 +1,21 @@
+# macOS metadata
+.DS_Store
+
+# Python build artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor clutter
+.idea/
+.vscode/
+*.swp

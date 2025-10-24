@@ -1,0 +1,952 @@
+[
+  {
+    "title": "AI Agents in LangGraph",
+    "url": "https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Agentic AI",
+    "summary": "Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. AI Agents in LangGraph 4 mins",
+    "description": "Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. AI Agents in LangGraph 4 mins",
+    "tags": [
+      "LangGraph",
+      "DeepLearning.AI",
+      "Agentic AI",
+      "Course",
+      "AI Learning Platform"
+    ],
+    "score": 4,
+    "score_reason": "Course on agentic ai; Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search.",
+    "evidence": "Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. | AI Agents in LangGraph"
+  },
+  {
+    "title": "AI Fluency: Framework & Foundations",
+    "url": "https://anthropic.skilljar.com/ai-fluency-framework-foundations",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "AI Fluency: Framework & Foundations Learn to collaborate with AI systems effectively, efficiently, ethically, and safely lectures hours of video Certificate of completion About this course At Anthropic, we believe that empowering people with AI, and ensuring that AI makes safe contributions to society, requires engaging with a wide range of human perspectives and experiences. Responsible AI development and engag",
+    "description": "AI Fluency: Framework & Foundations Learn to collaborate with AI systems effectively, efficiently, ethically, and safely lectures hours of video Certificate of completion About this course At Anthropic, we believe that empowering people with AI, and ensuring that AI makes safe contributions to society, requires engaging with a wide range of human perspectives and experiences. Responsible AI development and engag \u2014 Learn to collaborate with AI systems effectively, efficiently, ethically, and safely; hours of video; At Anthropic, we believe that empowering people with AI, and ensuring that AI makes safe contributions to society, requires engaging with a wide range of human perspectives and experiences. Responsible AI development and engagement isn't something any single discipline or viewpoint can fully address. It demands collaborative approaches that span a wide range of technical, creative, business, scientific, and educational domains. That's why we partnered with educators who bring complementary expertise to create this foundational course on AI collaboration.; Our goal is to make AI Fluency accessible and useful to everyone, no matter what stage of AI expertise you find yourself at. We hope you find it valuable in navigating the evolving landscape of AI collaboration.",
+    "tags": [
+      "Anthropic",
+      "Skilljar",
+      "Prompt Engineering",
+      "Course",
+      "AI Learning Platform"
+    ],
+    "score": 5,
+    "score_reason": "Course on prompt engineering; Learn to collaborate with AI systems effectively, efficiently, ethically, and safely; includes applied work",
+    "evidence": "Learn to collaborate with AI systems effectively, efficiently, ethically, and safely | hours of video"
+  },
+  {
+    "title": "Agentic AI",
+    "url": "https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Agentic AI",
+    "summary": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows.",
+    "description": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows.",
+    "tags": [
+      "DeepLearning.AI",
+      "Agentic AI",
+      "Course",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on agentic ai; In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows.",
+    "evidence": "In this course taught by Andrew Ng, you'll build agentic AI systems that take action through iterative, multi-step workflows."
+  },
+  {
+    "title": "Building with the Claude API",
+    "url": "https://anthropic.skilljar.com/claude-with-the-anthropic-api",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "AI Education",
+    "summary": "This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API Claude with the Anthropic API This comprehensive course covers the full spectrum of working with Anthropic models using the Anthropic API",
+    "description": "This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API Claude with the Anthropic API This comprehensive course covers the full spectrum of working with Anthropic models using the Anthropic API",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "Skilljar",
+      "AI Education",
+      "Course"
+    ],
+    "score": 4,
+    "score_reason": "Course on ai education; This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API",
+    "evidence": "This comprehensive course covers the full spectrum of working with Anthropic models using the Claude API | Claude with the Anthropic API"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers",
+    "url": "https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, ...",
+    "description": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, ...",
+    "tags": [
+      "DeepLearning.AI",
+      "Prompt Engineering",
+      "Course",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on prompt engineering; Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, ...",
+    "evidence": "Learn the fundamentals of prompt engineering for ChatGPT. Learn effective prompting, and how to use LLMs for summarizing, inferring, transforming, ..."
+  },
+  {
+    "title": "Claude Code: A Highly Agentic Coding Assistant",
+    "url": "https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Agentic AI",
+    "summary": "Explore, build, and refine codebases with Claude Code. Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI",
+    "description": "Explore, build, and refine codebases with Claude Code. Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI",
+    "tags": [
+      "Claude",
+      "DeepLearning.AI",
+      "Agentic AI",
+      "Course",
+      "AI Learning Platform"
+    ],
+    "score": 4,
+    "score_reason": "Course on agentic ai; Explore, build, and refine codebases with Claude Code.",
+    "evidence": "Explore, build, and refine codebases with Claude Code. | Claude Code: A Highly Agentic Coding Assistant - DeepLearning.AI"
+  },
+  {
+    "title": "Generative AI for Software Development",
+    "url": "https://www.deeplearning.ai/courses/generative-ai-for-software-development",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code. Generative AI for Software Development - DeepLearning.AI",
+    "description": "Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code. Generative AI for Software Development - DeepLearning.AI",
+    "tags": [
+      "DeepLearning.AI",
+      "Prompt Engineering",
+      "Course",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on prompt engineering; Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code.",
+    "evidence": "Learn practical prompt engineering and pair programming techniques with LLMs to write, test, and improve your code. | Generative AI for Software Development - DeepLearning.AI"
+  },
+  {
+    "title": "MCP: Build Rich-Context AI Apps with Anthropic",
+    "url": "https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Build AI apps that access tools, data, and prompts using the Model Context Protocol.",
+    "description": "Build AI apps that access tools, data, and prompts using the Model Context Protocol.",
+    "tags": [
+      "Anthropic",
+      "DeepLearning.AI",
+      "MCP",
+      "Prompt Engineering",
+      "Course"
+    ],
+    "score": 4,
+    "score_reason": "Course on prompt engineering; Build AI apps that access tools, data, and prompts using the Model Context Protocol.",
+    "evidence": "Build AI apps that access tools, data, and prompts using the Model Context Protocol."
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "url": "http://www.deeplearning.ai/courses/machine-learning-specialization",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Machine Learning Foundations",
+    "summary": "New Machine Learning Specialization, an updated foundational program for beginners created by Andrew Ng | Start Your AI Career Today Machine Learning Specialization - DeepLearning.AI",
+    "description": "New Machine Learning Specialization, an updated foundational program for beginners created by Andrew Ng | Start Your AI Career Today Machine Learning Specialization - DeepLearning.AI",
+    "tags": [
+      "DeepLearning.AI",
+      "Machine Learning Foundations",
+      "Course",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 5,
+    "score_reason": "Course on machine learning foundations; New Machine Learning Specialization, an updated foundational program for beginners created by Andrew Ng | Start Your AI Career Today",
+    "evidence": "New Machine Learning Specialization, an updated foundational program for beginners created by Andrew Ng | Start Your AI Career Today | Machine Learning Specialization - DeepLearning.AI"
+  },
+  {
+    "title": "Neural Networks: Zero To Hero",
+    "url": "https://karpathy.ai/zero-to-hero.html",
+    "category": "AI_Learning_Platform",
+    "type": "Course Series",
+    "topic": "Deep Learning",
+    "summary": "No summary found Neural Networks: Zero to Hero A course by Andrej Karpathy on building neural networks, from scratch, in code.",
+    "description": "No summary found Neural Networks: Zero to Hero A course by Andrej Karpathy on building neural networks, from scratch, in code.",
+    "tags": [
+      "Karpathy",
+      "Deep Learning",
+      "Course Series",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course Series on deep learning; No summary found",
+    "evidence": "No summary found | Neural Networks: Zero to Hero"
+  },
+  {
+    "title": "Pair Programming with a Large Language Model",
+    "url": "https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.",
+    "description": "Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.",
+    "tags": [
+      "DeepLearning.AI",
+      "Prompt Engineering",
+      "Course",
+      "AI Learning Platform",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on prompt engineering; Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity.",
+    "evidence": "Learn how to prompt an LLM to help improve, debug, understand, and document your code. Use LLMs to simplify your code and enhance productivity."
+  },
+  {
+    "title": "Reinforcement Fine-Tuning LLMs with GRPO",
+    "url": "http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo",
+    "category": "AI_Learning_Platform",
+    "type": "Course",
+    "topic": "Reinforcement Learning",
+    "summary": "Improve LLM reasoning with reinforcement fine-tuning and reward functions. Reinforcement Fine-Tuning LLMs with GRPO - DeepLearning.AI",
+    "description": "Improve LLM reasoning with reinforcement fine-tuning and reward functions. Reinforcement Fine-Tuning LLMs with GRPO - DeepLearning.AI",
+    "tags": [
+      "GRPO",
+      "DeepLearning.AI",
+      "Reinforcement Learning",
+      "Course",
+      "AI Learning Platform"
+    ],
+    "score": 4,
+    "score_reason": "Course on reinforcement learning; Improve LLM reasoning with reinforcement fine-tuning and reward functions.",
+    "evidence": "Improve LLM reasoning with reinforcement fine-tuning and reward functions. | Reinforcement Fine-Tuning LLMs with GRPO - DeepLearning.AI"
+  },
+  {
+    "title": "The Episode Archive",
+    "url": "https://journalclub.io/episodes",
+    "category": "Article",
+    "type": "Podcast Archive",
+    "topic": "Retrieval-Augmented Generation",
+    "summary": "Your level of membership determines how many episodes you can pull from the archive per day. Robotic Paper Wrapping by Learning Force Control: Now imagine trying to teach a robot to do the same thing. Every step, every move, every subtle nuance of the procedure. Suddenly, what seemed simple becomes a n... Well-Being of the Baltic Herring and Bycatch Fish Species from FAO Major Fishing Areas 27 According to Microplast",
+    "description": "Your level of membership determines how many episodes you can pull from the archive per day. Robotic Paper Wrapping by Learning Force Control: Now imagine trying to teach a robot to do the same thing. Every step, every move, every subtle nuance of the procedure. Suddenly, what seemed simple becomes a n... Well-Being of the Baltic Herring and Bycatch Fish Species from FAO Major Fishing Areas 27 According to Microplast \u2014 Get access to our past episodes. Your level of membership determines how many episodes you can pull from the archive per day.",
+    "tags": [
+      "Journal Club",
+      "Retrieval-Augmented Generation",
+      "Podcast Archive",
+      "Article",
+      "Episode Archive"
+    ],
+    "score": 3,
+    "score_reason": "Podcast Archive on retrieval-augmented generation; Get access to our past episodes. Your level of membership determines how many episodes you can pull from the archive per day.; requires vetting for depth",
+    "evidence": "Get access to our past episodes. Your level of membership determines how many episodes you can pull from the archive per day."
+  },
+  {
+    "title": "AI Engineering: Building Applications with Foundation Models",
+    "url": "http://www.amazon.com/dp/1098166302",
+    "category": "Book",
+    "type": "Book",
+    "topic": "AI Education",
+    "summary": "AI Engineering: Building Applications with Foundation Models [Huyen, Chip] on Amazon.com. FREE shipping on qualifying offers. AI Engineering: Bui...",
+    "description": "AI Engineering: Building Applications with Foundation Models [Huyen, Chip] on Amazon.com. FREE shipping on qualifying offers. AI Engineering: Bui...",
+    "tags": [
+      "AI Education",
+      "Book",
+      "AI Learning",
+      "Hands-on Practice",
+      "Expert-Led"
+    ],
+    "score": 4,
+    "score_reason": "Book on ai education; AI Engineering: Building Applications with Foundation Models [Huyen, Chip] on Amazon.com. FREE shipping on qualifying offers. AI Engineering: Bui...",
+    "evidence": "AI Engineering: Building Applications with Foundation Models [Huyen, Chip] on Amazon.com. FREE shipping on qualifying offers. AI Engineering: Bui..."
+  },
+  {
+    "title": "Designing Machine Learning Systems",
+    "url": "http://www.oreilly.com/library/view/designing-machine-learning/9781098107956",
+    "category": "Book",
+    "type": "Book",
+    "topic": "Machine Learning Foundations",
+    "summary": "Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakehol...",
+    "description": "Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakehol...",
+    "tags": [
+      "Machine Learning Foundations",
+      "Book",
+      "AI Learning",
+      "Hands-on Practice",
+      "Expert-Led"
+    ],
+    "score": 4,
+    "score_reason": "Book on machine learning foundations; Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakehol...",
+    "evidence": "Machine learning systems are both complex and unique. Complex because they consist of many different components and involve many different stakehol... |"
+  },
+  {
+    "title": "Grokking Machine Learning - Luis G. Serrano",
+    "url": "https://www.manning.com/books/grokking-machine-learning",
+    "category": "Book",
+    "type": "Book",
+    "topic": "Machine Learning Foundations",
+    "summary": "Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac... look inside Look inside read this article now in Manning's Free Content Center ch 1 audio video summary first chapt",
+    "description": "Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac... look inside Look inside read this article now in Manning's Free Content Center ch 1 audio video summary first chapt \u2014 Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac...",
+    "tags": [
+      "Machine Learning Foundations",
+      "Book",
+      "Hands-on",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 5,
+    "score_reason": "Book on machine learning foundations; Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac...; includes applied work",
+    "evidence": "Apply ML to your projects using just high-school math. With easy-to-follow Python-based exercises, this book sets you on the path to becoming a mac..."
+  },
+  {
+    "title": "Hands-On Large Language Models",
+    "url": "https://www.oreilly.com/library/view/hands-on-large-language/9781098150952",
+    "category": "Book",
+    "type": "Book",
+    "topic": "Deep Learning",
+    "summary": "AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are ...",
+    "description": "AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are ...",
+    "tags": [
+      "Deep Learning",
+      "Book",
+      "AI Learning",
+      "Hands-on Practice",
+      "Expert-Led"
+    ],
+    "score": 4,
+    "score_reason": "Book on deep learning; AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are ...",
+    "evidence": "AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are ... |"
+  },
+  {
+    "title": "LLMs in Production: From language models to successful products",
+    "url": "http://www.amazon.com/LLMs-Production-language-successful-products/dp/1633437205",
+    "category": "Book",
+    "type": "Book",
+    "topic": "Generative AI",
+    "summary": "LLMs in Production: From language models to successful products [Brousseau, Christopher, Sharp, Matt] on Amazon.com. FREE shipping on qualifying ...",
+    "description": "LLMs in Production: From language models to successful products [Brousseau, Christopher, Sharp, Matt] on Amazon.com. FREE shipping on qualifying ...",
+    "tags": [
+      "Generative AI",
+      "Book",
+      "AI Learning",
+      "Hands-on Practice",
+      "Expert-Led"
+    ],
+    "score": 5,
+    "score_reason": "Book on generative ai; LLMs in Production: From language models to successful products [Brousseau, Christopher, Sharp, Matt] on Amazon.com. FREE shipping on qualifying ...",
+    "evidence": "LLMs in Production: From language models to successful products [Brousseau, Christopher, Sharp, Matt] on Amazon.com. FREE shipping on qualifying ..."
+  },
+  {
+    "title": "courses/prompt_engineering_interactive_tutorial/Anthropic 1P/00_Tutorial_How-To.ipynb at master \u00b7 anthropics/courses",
+    "url": "https://github.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb",
+    "category": "Code_Repository",
+    "type": "Code Resource",
+    "topic": "Prompt Engineering",
+    "summary": "Contribute to anthropics/courses development by creating an account on GitHub. Tutorial How-To 1. Clone this repository to your local machine. 2. Install the required dependencies by running the following command: ```python%pip install anthropic```3. Set up your API key and model name. Replace `\"your_api_key_here\"` with your actual Anthropic API key.```pythonAPI_KEY = \"your_api_key_here\" MODEL_NAME = \"claude-3-haik",
+    "description": "Contribute to anthropics/courses development by creating an account on GitHub. Tutorial How-To 1. Clone this repository to your local machine. 2. Install the required dependencies by running the following command: ```python%pip install anthropic```3. Set up your API key and model name. Replace `\"your_api_key_here\"` with your actual Anthropic API key.```pythonAPI_KEY = \"your_api_key_here\" MODEL_NAME = \"claude-3-haik",
+    "tags": [
+      "Anthropic",
+      "Prompt Engineering",
+      "Code Resource",
+      "Code Repository",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Code Resource on prompt engineering; Anthropic's educational courses. Contribute to anthropics/courses development by creating an account on GitHub.",
+    "evidence": "Anthropic's educational courses. Contribute to anthropics/courses development by creating an account on GitHub. | Tutorial How-To"
+  },
+  {
+    "title": "Advanced Prompt Engineering for Everyone",
+    "url": "https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Advanced Prompt Engineering",
+    "summary": "Unlock the full potential of generative AI and become a master of prompt engineering. Dive deeper into how ... En... Advanced Prompt Engineering for Everyone Advanced Prompt Engineering for Everyone",
+    "description": "Unlock the full potential of generative AI and become a master of prompt engineering. Dive deeper into how ... En... Advanced Prompt Engineering for Everyone Advanced Prompt Engineering for Everyone",
+    "tags": [
+      "Coursera",
+      "Advanced Prompt Engineering",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 5,
+    "score_reason": "Course on advanced prompt engineering; Offered by Vanderbilt University. Unlock the full potential of generative AI and become a master of prompt engineering. Dive deeper into how ... En...",
+    "evidence": "Offered by Vanderbilt University. Unlock the full potential of generative AI and become a master of prompt engineering. Dive deeper into how ... En... | Advanced Prompt Engineering for Everyone"
+  },
+  {
+    "title": "Agentic AI MOOC",
+    "url": "https://agenticai-learning.org/f25",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Agentic AI",
+    "summary": "MOOC, Fall 2025 Agentic AI agentic-ai-mooc",
+    "description": "MOOC, Fall 2025 Agentic AI agentic-ai-mooc",
+    "tags": [
+      "Agentic AI",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice",
+      "Expert-Led"
+    ],
+    "score": 4,
+    "score_reason": "Course on agentic ai; MOOC, Fall 2025",
+    "evidence": "MOOC, Fall 2025 | Agentic AI"
+  },
+  {
+    "title": "ChatGPT Prompt Engineering for Developers (Short Course)",
+    "url": "https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right... ChatGPT Prompt Engineering for Developers",
+    "description": "Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right... ChatGPT Prompt Engineering for Developers \u2014 Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right...",
+    "tags": [
+      "Coursera",
+      "Prompt Engineering",
+      "Course",
+      "Hands-on",
+      "AI Learning"
+    ],
+    "score": 5,
+    "score_reason": "Course on prompt engineering; Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right...; includes applied work",
+    "evidence": "Learn ChatGPT Prompt Engineering for Developers in this 2-hour, Guided Project. Practice with real-world tasks and build skills you can apply right..."
+  },
+  {
+    "title": "Computer Science for Artificial Intelligence Professional Certificate",
+    "url": "https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Machine Learning Foundations",
+    "summary": "Learn programming fundamentals and how to use machine learning in Python.",
+    "description": "Learn programming fundamentals and how to use machine learning in Python.",
+    "tags": [
+      "Harvard",
+      "Machine Learning Foundations",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on machine learning foundations; Learn programming fundamentals and how to use machine learning in Python.",
+    "evidence": "Learn programming fundamentals and how to use machine learning in Python."
+  },
+  {
+    "title": "Generative AI for Software Developers",
+    "url": "https://www.coursera.org/specializations/generative-ai-for-software-developers",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Generative AI",
+    "summary": "Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol... Generative AI for Software Developers Specialization Generative AI for Software Developers Specialization Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ...",
+    "description": "Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol... Generative AI for Software Developers Specialization Generative AI for Software Developers Specialization Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ... \u2014 Offered by IBM. Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol...; Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ...",
+    "tags": [
+      "Coursera",
+      "Generative AI",
+      "Course",
+      "Hands-on",
+      "AI Learning"
+    ],
+    "score": 5,
+    "score_reason": "Course on generative ai; Offered by IBM. Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol...; includes applied work",
+    "evidence": "Offered by IBM. Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your elevating your ... Enrol... | Boost your software development career with Gen AI. Build in-demand hands-on Generative AI skills for your ..."
+  },
+  {
+    "title": "Generative AI with Large Language Models",
+    "url": "https://www.coursera.org/learn/generative-ai-with-llms",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Generative AI",
+    "summary": "Learn how generative AI and large language models work in this course from AWS and DeepLearning.AI. Explore key concepts and techniques for buildin... Generative AI with Large Language Models Generative AI with Large Language Models",
+    "description": "Learn how generative AI and large language models work in this course from AWS and DeepLearning.AI. Explore key concepts and techniques for buildin... Generative AI with Large Language Models Generative AI with Large Language Models",
+    "tags": [
+      "Coursera",
+      "Generative AI",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on generative ai; Learn how generative AI and large language models work in this course from AWS and DeepLearning.AI. Explore key concepts and techniques for buildin...",
+    "evidence": "Learn how generative AI and large language models work in this course from AWS and DeepLearning.AI. Explore key concepts and techniques for buildin... | Generative AI with Large Language Models"
+  },
+  {
+    "title": "Google AI Essentials",
+    "url": "http://www.coursera.org/specializations/ai-essentials-google",
+    "category": "Course",
+    "type": "Course",
+    "topic": "AI with Google Tools",
+    "summary": "Learn from Google experts how AI can help you speed up daily tasks and ... Enr... Google AI Essentials | Coursera",
+    "description": "Learn from Google experts how AI can help you speed up daily tasks and ... Enr... Google AI Essentials | Coursera",
+    "tags": [
+      "Google",
+      "Coursera",
+      "AI with Google Tools",
+      "Course",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on ai with google tools; Offered by Google. Boost Your Productivity with AI Tools. New to AI? Learn from Google experts how AI can help you speed up daily tasks and ... Enr...",
+    "evidence": "Offered by Google. Boost Your Productivity with AI Tools. New to AI? Learn from Google experts how AI can help you speed up daily tasks and ... Enr... | Google AI Essentials | Coursera"
+  },
+  {
+    "title": "Google Prompting Essentials",
+    "url": "https://www.coursera.org/specializations/prompting-essentials-google",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Prompt Engineering",
+    "summary": "Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and ... Enrol... Google Prompting Essentials Specialization Google Prompting Essentials Specialization Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and specific prompts.",
+    "description": "Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and ... Enrol... Google Prompting Essentials Specialization Google Prompting Essentials Specialization Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and specific prompts.",
+    "tags": [
+      "Google",
+      "Coursera",
+      "Prompt Engineering",
+      "Course",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on prompt engineering; Offered by Google. Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and ... Enrol...",
+    "evidence": "Offered by Google. Unlock AI\u2019s Potential with Effective Prompts. Learn from Google experts how to use AI effectively by writing clear and ... Enrol... | Google Prompting Essentials Specialization"
+  },
+  {
+    "title": "IBM RAG and Agentic AI: Build Next-Gen AI Assistants",
+    "url": "http://www.coursera.org/specializations/ibm-rag-and-agentic-ai",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Retrieval-Augmented Generation",
+    "summary": "Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career ... Enroll ... IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera",
+    "description": "Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career ... Enroll ... IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional Certificate | Coursera",
+    "tags": [
+      "IBM",
+      "RAG",
+      "Coursera",
+      "Retrieval-Augmented Generation",
+      "Course"
+    ],
+    "score": 4,
+    "score_reason": "Course on retrieval-augmented generation; Offered by IBM. Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career ... Enroll ...",
+    "evidence": "Offered by IBM. Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career ... Enroll ... | IBM RAG and Agentic AI: Build Next-Gen AI Assistants Professional C"
+  },
+  {
+    "title": "Intro to Generative AI: A Beginner's Primer on Core Concepts",
+    "url": "https://www.coursera.org/specializations/introduction-to-generative-ai",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Generative AI",
+    "summary": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera",
+    "description": "Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera",
+    "tags": [
+      "Coursera",
+      "Generative AI",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on generative ai; Offered by Google Cloud. Enroll for free.",
+    "evidence": "Offered by Google Cloud. Enroll for free. | Intro to Generative AI: A Beginner's Primer on Core Concepts | Coursera"
+  },
+  {
+    "title": "Llm Engineering Master Ai And Large Language Models (Udemy Course)",
+    "url": "http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Generative AI",
+    "summary": "Udemy course: Llm Engineering Master Ai And Large Language Models. Access blocked - please visit URL to see full details.",
+    "description": "Udemy course: Llm Engineering Master Ai And Large Language Models. Access blocked - please visit URL to see full details.",
+    "tags": [
+      "Udemy",
+      "Generative AI",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on generative ai; Udemy course: Llm Engineering Master Ai And Large Language Models. Access blocked - please visit URL to see full details.",
+    "evidence": "Udemy course: Llm Engineering Master Ai And Large Language Models. Access blocked - please visit URL to see full details. |"
+  },
+  {
+    "title": "Machine Learning in Production",
+    "url": "https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2",
+    "category": "Course",
+    "type": "Course",
+    "topic": "ML Production",
+    "summary": "In this Machine Learning in Production course, you will build intuition about designing a production ML system ... Enro... Machine Learning in Production | Coursera",
+    "description": "In this Machine Learning in Production course, you will build intuition about designing a production ML system ... Enro... Machine Learning in Production | Coursera",
+    "tags": [
+      "Coursera",
+      "ML Production",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 5,
+    "score_reason": "Course on ml production; Offered by DeepLearning.AI. In this Machine Learning in Production course, you will build intuition about designing a production ML system ... Enro...",
+    "evidence": "Offered by DeepLearning.AI. In this Machine Learning in Production course, you will build intuition about designing a production ML system ... Enro... | Machine Learning in Production | Coursera"
+  },
+  {
+    "title": "Machine Learning with Scikit-learn, PyTorch & Hugging Face",
+    "url": "http://www.coursera.org/specializations/machine-learning-introduction",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Machine Learning Foundations",
+    "summary": "Offered by Stanford University and DeepLearning.AI. BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and ... Enrol... Machine Learning Specialization Machine Learning Specialization BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng Top In",
+    "description": "Offered by Stanford University and DeepLearning.AI. BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and ... Enrol... Machine Learning Specialization Machine Learning Specialization BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng Top In \u2014 705,160 already enrolled; (36,104 reviews); Beginner level; Basic coding (for loops, functions, if/else statements) & high school-level math (arithmetic, algebra)",
+    "tags": [
+      "Coursera",
+      "Machine Learning Foundations",
+      "Course",
+      "High-Rated",
+      "Beginner-Friendly"
+    ],
+    "score": 5,
+    "score_reason": "Course on machine learning foundations; (36,104 reviews); includes applied work",
+    "evidence": "705,160 already enrolled | (36,104 reviews)"
+  },
+  {
+    "title": "Retrieval Augmented Generation (RAG)",
+    "url": "http://www.coursera.org/learn/retrieval-augmented-generation-rag",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Retrieval-Augmented Generation",
+    "summary": "Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data ... Enro... Retrieval Augmented Generation (RAG) | Coursera",
+    "description": "Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data ... Enro... Retrieval Augmented Generation (RAG) | Coursera",
+    "tags": [
+      "RAG",
+      "Coursera",
+      "Retrieval-Augmented Generation",
+      "Course",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Course on retrieval-augmented generation; Offered by DeepLearning.AI. Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data ... Enro...",
+    "evidence": "Offered by DeepLearning.AI. Retrieval Augmented Generation (RAG) improves large language model (LLM) responses by retrieving relevant data ... Enro... | Retrieval Augmented Generation (RAG) | Coursera"
+  },
+  {
+    "title": "The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)",
+    "url": "https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp",
+    "category": "Course",
+    "type": "Course",
+    "topic": "AI Education",
+    "summary": "Udemy course: The Ai Engineer Course Complete Ai Engineer Bootcamp. Access blocked - please visit URL to see full details. The AI Engineer Course 2025: Complete AI Engineer Bootcamp | Udemy",
+    "description": "Udemy course: The Ai Engineer Course Complete Ai Engineer Bootcamp. Access blocked - please visit URL to see full details. The AI Engineer Course 2025: Complete AI Engineer Bootcamp | Udemy",
+    "tags": [
+      "Udemy",
+      "AI Education",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on ai education; Udemy course: The Ai Engineer Course Complete Ai Engineer Bootcamp. Access blocked - please visit URL to see full details.",
+    "evidence": "Udemy course: The Ai Engineer Course Complete Ai Engineer Bootcamp. Access blocked - please visit URL to see full details. | The AI Engineer Course 2025: Complete AI Engineer Bootcamp | Udemy"
+  },
+  {
+    "title": "The Complete Agentic Ai Engineering Course (Udemy Course)",
+    "url": "http://www.udemy.com/course/the-complete-agentic-ai-engineering-course",
+    "category": "Course",
+    "type": "Course",
+    "topic": "Agentic AI",
+    "summary": "Udemy course: The Complete Agentic Ai Engineering Course. Access blocked - please visit URL to see full details. The Complete Agentic AI Engineering Course (2025) | Udemy",
+    "description": "Udemy course: The Complete Agentic Ai Engineering Course. Access blocked - please visit URL to see full details. The Complete Agentic AI Engineering Course (2025) | Udemy",
+    "tags": [
+      "Udemy",
+      "Agentic AI",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on agentic ai; Udemy course: The Complete Agentic Ai Engineering Course. Access blocked - please visit URL to see full details.",
+    "evidence": "Udemy course: The Complete Agentic Ai Engineering Course. Access blocked - please visit URL to see full details. | The Complete Agentic AI Engineering Course (2025) | Udemy"
+  },
+  {
+    "title": "Udemy Course (Shared Link)",
+    "url": "https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==",
+    "category": "Course",
+    "type": "Course",
+    "topic": "AI Education",
+    "summary": "Access blocked - please visit URL to see course details.",
+    "description": "Access blocked - please visit URL to see course details.",
+    "tags": [
+      "Udemy",
+      "AI Education",
+      "Course",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 4,
+    "score_reason": "Course on ai education; Udemy course shared link. Access blocked - please visit URL to see course details.",
+    "evidence": "Udemy course shared link. Access blocked - please visit URL to see course details. |"
+  },
+  {
+    "title": "Machine Learning",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "category": "Documentation",
+    "type": "Interactive Course",
+    "topic": "Machine Learning Foundations",
+    "summary": "These modules cover the fundamentals of building regression and classification models. English Deutsch Espa\u00f1ol Fran\u00e7ais Indonesia Portugu\u00eas \u2013 Brasil \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u4e2d\u6587 \u2013 \u7b80\u4f53",
+    "description": "These modules cover the fundamentals of building regression and classification models. English Deutsch Espa\u00f1ol Fran\u00e7ais Indonesia Portugu\u00eas \u2013 Brasil \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u4e2d\u6587 \u2013 \u7b80\u4f53",
+    "tags": [
+      "Google",
+      "Machine Learning Foundations",
+      "Interactive Course",
+      "Documentation",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Interactive Course on machine learning foundations; These modules cover the fundamentals of building regression and classification models.",
+    "evidence": "These modules cover the fundamentals of building regression and classification models. | English"
+  },
+  {
+    "title": "#ai-for-dev-productivity",
+    "url": "N/A",
+    "category": "Slack_Channel",
+    "type": "Community",
+    "topic": "AI Education",
+    "summary": "Slack channel: ai-for-dev-productivity",
+    "description": "Slack channel: ai-for-dev-productivity",
+    "tags": [
+      "AI Education",
+      "Community",
+      "Slack Channel",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 2,
+    "score_reason": "Community on ai education; requires vetting for depth; Slack channel: ai-for-dev-productivity",
+    "evidence": "Slack channel: ai-for-dev-productivity"
+  },
+  {
+    "title": "3Blue1Brown",
+    "url": "http://www.youtube.com/c/3blue1brown",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Mathematical Intuition",
+    "summary": "Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualiz...",
+    "description": "Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualiz...",
+    "tags": [
+      "3Blue1Brown",
+      "Mathematical Intuition",
+      "Video",
+      "Video Series",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Video on mathematical intuition; My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualiz...",
+    "evidence": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualiz..."
+  },
+  {
+    "title": "AI Dev 25: Code, learn, connect.",
+    "url": "https://youtube.com/playlist?list=PLkDaE6sCZn6EYD2iP6x7c3zSbJXi0_jZT&si=tT7PkHTzBTMBqP5L",
+    "category": "Video",
+    "type": "Video",
+    "topic": "AI Education",
+    "summary": "AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we\u2019re grateful you were part of ...",
+    "description": "AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we\u2019re grateful you were part of ...",
+    "tags": [
+      "AI Education",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on ai education; requires vetting for depth; Wow\u2014what a day! AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we\u2019re grateful you were part of ...",
+    "evidence": "Wow\u2014what a day! AI Dev 25, celebrated during Pi Day, was an incredible gathering of developers and innovators, and we\u2019re grateful you were part of ..."
+  },
+  {
+    "title": "Andrej Karpathy",
+    "url": "https://www.youtube.com/andrejkarpathy",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Deep Learning",
+    "summary": "No summary available",
+    "description": "No summary available \u2014 No summary available",
+    "tags": [
+      "Karpathy",
+      "Deep Learning",
+      "Video",
+      "Video Series",
+      "AI Learning"
+    ],
+    "score": 4,
+    "score_reason": "Video on deep learning; No summary available",
+    "evidence": "No summary available"
+  },
+  {
+    "title": "Anthropic",
+    "url": "https://www.youtube.com/@anthropic-ai",
+    "category": "Video",
+    "type": "Video",
+    "topic": "AI Education",
+    "summary": "We\u2019re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe A... Anthropic - YouTube",
+    "description": "We\u2019re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe A... Anthropic - YouTube",
+    "tags": [
+      "Anthropic",
+      "AI Education",
+      "Video",
+      "Video Series",
+      "AI Learning"
+    ],
+    "score": 3,
+    "score_reason": "Video on ai education; requires vetting for depth; We\u2019re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe A...",
+    "evidence": "We\u2019re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe A... | Anthropic - YouTube"
+  },
+  {
+    "title": "Berkeley RDI Center on Decentralization & AI",
+    "url": "http://www.youtube.com/@BerkeleyRDI",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Agentic AI",
+    "summary": "UC Berkeley RDI Center \u2013 rdi.berkeley.edu World's first Advanced LLM Agents MOOC - llmagents-learning.org/sp25 World's first LLM Agents MOOC - llma...",
+    "description": "UC Berkeley RDI Center \u2013 rdi.berkeley.edu World's first Advanced LLM Agents MOOC - llmagents-learning.org/sp25 World's first LLM Agents MOOC - llma...",
+    "tags": [
+      "Berkeley",
+      "Agentic AI",
+      "Video",
+      "Video Series",
+      "AI Learning"
+    ],
+    "score": 3,
+    "score_reason": "Video on agentic ai; requires vetting for depth; UC Berkeley RDI Center \u2013 rdi.berkeley.edu World's first Advanced LLM Agents MOOC - llmagents-learning.org/sp25 World's first LLM Agents MOOC - llma...",
+    "evidence": "UC Berkeley RDI Center \u2013 rdi.berkeley.edu World's first Advanced LLM Agents MOOC - llmagents-learning.org/sp25 World's first LLM Agents MOOC - llma..."
+  },
+  {
+    "title": "Building AI Agents",
+    "url": "https://www.youtube.com/playlist?list=PL-Y17yukoyy0SupAJSPQYg_Lvre9Kt9EG",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Agentic AI",
+    "summary": "Tutorials and best practices for building AI systems and agents with Python",
+    "description": "Tutorials and best practices for building AI systems and agents with Python",
+    "tags": [
+      "Agentic AI",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on agentic ai; requires vetting for depth; Tutorials and best practices for building AI systems and agents with Python",
+    "evidence": "Tutorials and best practices for building AI systems and agents with Python"
+  },
+  {
+    "title": "Deep Dive into LLMs like ChatGPT",
+    "url": "https://youtu.be/7xTGNNLPyMI?si=dm2ZuxnBymlg99kn",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Generative AI",
+    "summary": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f...",
+    "description": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f...",
+    "tags": [
+      "Generative AI",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on generative ai; requires vetting for depth; This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f...",
+    "evidence": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related products. It is covers the f..."
+  },
+  {
+    "title": "LangChain",
+    "url": "https://www.youtube.com/@LangChain",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Generative AI",
+    "summary": "Learn more about building LLM applications with LangChain LangChain - YouTube",
+    "description": "Learn more about building LLM applications with LangChain LangChain - YouTube",
+    "tags": [
+      "LangChain",
+      "Generative AI",
+      "Video",
+      "Video Series",
+      "AI Learning"
+    ],
+    "score": 3,
+    "score_reason": "Video on generative ai; requires vetting for depth; Learn more about building LLM applications with LangChain",
+    "evidence": "Learn more about building LLM applications with LangChain | LangChain - YouTube"
+  },
+  {
+    "title": "Learn RAG From Scratch \u2013 Python AI Tutorial from a LangChain Engineer",
+    "url": "http://www.youtube.com/watch?v=sVcwVQRHIc8&t=3566s",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Retrieval-Augmented Generation",
+    "summary": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer. This Python course teaches y...",
+    "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer. This Python course teaches y...",
+    "tags": [
+      "LangChain",
+      "RAG",
+      "Retrieval-Augmented Generation",
+      "Video",
+      "Video Series"
+    ],
+    "score": 3,
+    "score_reason": "Video on retrieval-augmented generation; requires vetting for depth; Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer. This Python course teaches y...",
+    "evidence": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer. This Python course teaches y..."
+  },
+  {
+    "title": "Lecture 1",
+    "url": "http://www.youtube.com/watch?v=3tDE4hDaYgw&list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t",
+    "category": "Video",
+    "type": "Video",
+    "topic": "AI Education",
+    "summary": "The AI course is entirely free.Live classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.Recorded lectures wi...",
+    "description": "The AI course is entirely free.Live classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.Recorded lectures wi...",
+    "tags": [
+      "AI Education",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on ai education; requires vetting for depth; The AI course is entirely free.Live classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.Recorded lectures wi...",
+    "evidence": "The AI course is entirely free.Live classes are held every Tuesday and Wednesday on Facebook and YouTube from 7:30 to 9:30 p.m.Recorded lectures wi..."
+  },
+  {
+    "title": "Neural networks",
+    "url": "http://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+    "category": "Video",
+    "type": "Video",
+    "topic": "Deep Learning",
+    "summary": "Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world.",
+    "description": "Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world.",
+    "tags": [
+      "Deep Learning",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on deep learning; requires vetting for depth; Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world.",
+    "evidence": "Learn the basics of neural networks and backpropagation, one of the most important algorithms for the modern world."
+  },
+  {
+    "title": "Theo - t3\u2024gg",
+    "url": "https://www.youtube.com/@t3dotgg",
+    "category": "Video",
+    "type": "Video",
+    "topic": "AI Education",
+    "summary": "Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg",
+    "description": "Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg",
+    "tags": [
+      "AI Education",
+      "Video",
+      "Video Series",
+      "AI Learning",
+      "Hands-on Practice"
+    ],
+    "score": 3,
+    "score_reason": "Video on ai education; requires vetting for depth; Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg",
+    "evidence": "Hi, I'm a software dev nerd mostly known for full stack TypeScript stuff. Check out me and my stack at t3.gg"
+  }
+]

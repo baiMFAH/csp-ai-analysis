@@ -1,0 +1,30 @@
+AI Agents in LangGraph	https://learn.deeplearning.ai/courses/ai-agents-in-langgraph/lesson/qyrpc/introduction
+AI Fluency: Framework & Foundations	https://anthropic.skilljar.com/ai-fluency-framework-foundations
+Agentic AI	https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome
+Building with the Claude API	https://anthropic.skilljar.com/claude-with-the-anthropic-api
+ChatGPT Prompt Engineering for Developers	https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/zi9lz/guidelines
+Claude Code: A Highly Agentic Coding Assistant	https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant
+Generative AI for Software Development	https://www.deeplearning.ai/courses/generative-ai-for-software-development
+MCP: Build Rich-Context AI Apps with Anthropic	https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic
+Machine Learning Specialization	http://www.deeplearning.ai/courses/machine-learning-specialization
+Neural Networks: Zero To Hero	https://karpathy.ai/zero-to-hero.html
+Pair Programming with a Large Language Model	https://learn.deeplearning.ai/courses/pair-programming-llm/lesson/nsj3s/introduction
+Reinforcement Fine-Tuning LLMs with GRPO	http://www.deeplearning.ai/short-courses/reinforcement-fine-tuning-llms-grpo
+Advanced Prompt Engineering for Everyone	https://www.coursera.org/learn/advanced-prompt-engineering-for-everyone
+Agentic AI MOOC	https://agenticai-learning.org/f25
+ChatGPT Prompt Engineering for Developers (Short Course)	https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project
+Computer Science for Artificial Intelligence Professional Certificate	https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-artifical-intelligence
+Generative AI for Software Developers	https://www.coursera.org/specializations/generative-ai-for-software-developers
+Generative AI with Large Language Models	https://www.coursera.org/learn/generative-ai-with-llms
+Google AI Essentials	http://www.coursera.org/specializations/ai-essentials-google
+Google Prompting Essentials	https://www.coursera.org/specializations/prompting-essentials-google
+IBM RAG and Agentic AI: Build Next-Gen AI Assistants	http://www.coursera.org/specializations/ibm-rag-and-agentic-ai
+Intro to Generative AI: A Beginner's Primer on Core Concepts	https://www.coursera.org/specializations/introduction-to-generative-ai
+Llm Engineering Master Ai And Large Language Models (Udemy Course)	http://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/learn/lecture/46867713?start=0
+Machine Learning in Production	https://coursera.org/share/6a038c8496caf6cf863d719c9ff71bb2
+Machine Learning with Scikit-learn, PyTorch & Hugging Face	http://www.coursera.org/specializations/machine-learning-introduction
+Retrieval Augmented Generation (RAG)	http://www.coursera.org/learn/retrieval-augmented-generation-rag
+The Ai Engineer Course Complete Ai Engineer Bootcamp (Udemy Course)	https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp
+The Complete Agentic Ai Engineering Course (Udemy Course)	http://www.udemy.com/course/the-complete-agentic-ai-engineering-course
+Udemy Course (Shared Link)	https://www.udemy.com/share/10bQ953@YZnRl0OLIdY7k-D48DjUX3oKxfKsdJjbjpGCE-KdvxP3RgimiDv_1eQCRqbddGmGbw==
+Machine Learning	https://developers.google.com/machine-learning/crash-course
